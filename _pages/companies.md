@@ -7,7 +7,7 @@ redirect_from:
   - /companies.html
 ---
 
-<em>Companies and startups that I manage.</em>
+<em>Companies and startups that I manage. Most of them are managed for academic and intellectual development rather than for profit.</em>
 
 <h2><a href="https://www.adaptivebraces.com/" target="_blank">Adaptive Braces</a></h2>
 <p><a href="https://www.adaptivebraces.com/uploads/annual_report.pdf" target="_blank"><b>Annual Report | 2020</b></a></p>
