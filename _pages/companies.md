@@ -19,7 +19,7 @@ At Adaptive Braces, LLC., we are interested in developing innovative braces that
 <h2><a href="https://www.illustratedatom.com/" target="_blank">Illustrated Atom</a></h2>
 <a href="https://www.illustratedatom.com/" target="_blank">
 Illustrated Atom, LLC. is a freelance scientific company that provides affordable writing, programming, translation, and illustration services to scientists and labs. Illustrated Atom focuses on publication-grade services to help accelerate the publication pipeline for understaffed labs.<br/>
-<img src='/images/companies/illustratedatom/illustrateatom.jpg' style='width=100%;margin-top:15px'>
+<img src='/images/companies/illustratedatom/illustratedatom.jpg' style='width=100%;margin-top:15px'>
 </a>
 
 <h2><a href="https://www.scientificequity.com/" target="_blank">Scientific Equity</a></h2>
