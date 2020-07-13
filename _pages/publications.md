@@ -15,7 +15,7 @@ author_profile: true
    <a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30218-X" target="_blank">Ireland, A.S.; Micinski, A.M.; Kastner, D.W.; Guo, B.; Wait, S.J.; Spainhower, K.B.; Conley, C.C.; Chen, O.S.; Guthrie, M.R.; Soltero, D.; Qiao, Y.; Huang, X.; Tarapcsak, S.; Devarakonda, S.; Chalishazar, M.D.; Gertz, J.; Moser, J.C.; Marth, G.; Puri, S.; Witt, B.L.; Spike, B.T.; Oliver, T.G. &ldquo;MYC Drives Temporal Evolution of Small Cell Lung Cancer Subtypes by Reprogramming Neuroendocrine Fate.&rdquo;
    <em>Cancer Cell. </em>
     <strong>1</strong>(38), 60-78 <strong>2020</strong>.
-  </a>
+   </a>
   <a style="color:blue" href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30313-5" target="_blank">[preview]</a>
   <a style="color:blue" href="https://healthcare.utah.edu/huntsmancancerinstitute/news/2020/06/researchers-identify-a-moving-target-in-small-cell-lung-tumors.php" target="_blank">[spotlight]</a>
  </td></tr>
@@ -26,12 +26,11 @@ author_profile: true
     &ldquo;Impact of Dehydroamino Acids on the Structure and Stability of Incipient 3<sub></sub>10-Helical Peptides&rdquo;
     <em>The Journal of Organic Chemistry </em>
     <strong>3</strong>(85), 1601-1613 <strong>2020</strong>.
-  </a>
+   </a>
   <a style="color:blue" href="https://chemrxiv.org/s/c3ceb27a7adb6d7e0acb" target="_blank">[preprint]</a>
  </td></tr>
 
   <tr><th>2019</th><td>
-  <tr><th></th><td>
     <a href="http://www.jbc.org/content/early/2019/11/05/jbc.RA119.011297" target="_blank">
       Morris, D. L., <u>Kastner, D. W.</u>, Johnson, S., Strub, M., He, Y., Bleck, C. K., Lee, D., Tjandra, N.
       &ldquo;Humanin induces conformational changes in the apoptosis regulator BAX and sequesters it into fibers, preventing mitochondrial outer-membrane permeabilization&rdquo;
@@ -41,12 +40,12 @@ author_profile: true
   </td></tr>
 
   <tr><th></th><td>
-    <a href="https://scholarsarchive.byu.edu/studentpub_uht/61" target="_blank">
+   <a href="https://scholarsarchive.byu.edu/studentpub_uht/61" target="_blank">
       <u>Kastner, D. W.</u>
       &ldquo;Computational Modelling of Peptides Containing Non-standard Amino Acids&rdquo;
       <em>Undergraduate Honors Thesis, </em>
       <strong>2019</strong>.
-    </a>
+   </a>
   </td></tr>
 
   <tr><th></th><td>
