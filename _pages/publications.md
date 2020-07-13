@@ -11,8 +11,17 @@ author_profile: true
 
 <table>
 
+ <tr><th>2020</th><td>
+   <a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30218-X" target="_blank">Ireland, A.S.; Micinski, A.M.; Kastner, D.W.; Guo, B.; Wait, S.J.; Spainhower, K.B.; Conley, C.C.; Chen, O.S.; Guthrie, M.R.; Soltero, D.; Qiao, Y.; Huang, X.; Tarapcsak, S.; Devarakonda, S.; Chalishazar, M.D.; Gertz, J.; Moser, J.C.; Marth, G.; Puri, S.; Witt, B.L.; Spike, B.T.; Oliver, T.G. &ldquo;MYC Drives Temporal Evolution of Small Cell Lung Cancer Subtypes by Reprogramming Neuroendocrine Fate.&rdquo;
+   <em>Cancer Cell. </em>
+    <strong>1</strong>(38), 60-78 (<strong>2020</strong>).
+  </a>
+  <a style="color:blue" href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30313-5" target="_blank">[preview]</a>
+  <a style="color:blue" href="https://healthcare.utah.edu/huntsmancancerinstitute/news/2020/06/researchers-identify-a-moving-target-in-small-cell-lung-tumors.php" target="_blank">[spotlight]</a>
+ </td></tr>
+
   <tr><th>2019</th><td>
-    <a href="http://www.jbc.org/content/early/2019/11/05/jbc.RA119.011297" target="_blank">
+   <a href="http://www.jbc.org/content/early/2019/11/05/jbc.RA119.011297" target="_blank">
       Joaquin, D., Lee, M., <u>Kastner, W. D.,</u> Singh, J., Shardon, D., Damstedt, G., Castle, S.
       &ldquo;Impact of Dehydroamino Acids on the Structure and Stability of Incipient 3<sub></sub>10-Helical Peptides&rdquo;
       <em>The Journal of Organic Chemistry </em>
