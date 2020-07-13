@@ -20,7 +20,7 @@ author_profile: true
   <a style="color:blue" href="https://healthcare.utah.edu/huntsmancancerinstitute/news/2020/06/researchers-identify-a-moving-target-in-small-cell-lung-tumors.php" target="_blank">[spotlight]</a>
  </td></tr>
 
- <a href="https://pubs.acs.org/doi/10.1021/acs.joc.9b02747" target="_blank">
+   <a href="https://pubs.acs.org/doi/10.1021/acs.joc.9b02747" target="_blank">
     Joaquin, D., Lee, M., <u>Kastner, W. D.,</u> Singh, J., Shardon, D., Damstedt, G., Castle, S.
     &ldquo;Impact of Dehydroamino Acids on the Structure and Stability of Incipient 3<sub></sub>10-Helical Peptides&rdquo;
     <em>The Journal of Organic Chemistry </em>
