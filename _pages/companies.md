@@ -22,7 +22,7 @@ Illustrated Atom, LLC. is a company that provides publication grade scientific i
 <img src='/images/companies/illustratedatom/illustratedatom.jpg' style='width=100%;margin-top:15px'>
 </a>
 
-<--<h2><a href="https://www.scientificequity.com/" target="_blank">Scientific Equity, LLC.</a></h2>
+<!--<h2><a href="https://www.scientificequity.com/" target="_blank">Scientific Equity, LLC.</a></h2>
 <a href="https://www.scientificequity.com/" target="_blank">
 Scientific Equity, LLC. is an ongoing personal project that investigates the interface of the markets and science. The volatile economic landscape has critical implications for the scientific community and needs to be thoroughly evaluated. It is my belief that scientists should be well informed of market movements.<br/>
 <img src='/images/companies/scientificequity/scientificequity.jpg' style='width=100%;margin-top:15px'>
