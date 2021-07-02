@@ -14,7 +14,7 @@ author_profile: true
 <tr><th>2021</th><td>
   <a href="http://genesdev.cshlp.org/content/35/11-12/847" target="_blank">Olsen, R.O.; Ireland, A.S.; Kastner, D.W.; Groves, S.M.; Spainhower, K.B.; Pozo, K.; Kelenis, D.P.; Whitney, C.P.; Guthrie, M.R.; Wait, S.J.; Soltero, D.; Witt, B.L.; Quaranta, V.; Johnson, J.E.; Oliver, T.G.; &ldquo;ASCL1 represses a SOX9+ neural crest stem-like state in small cell lung cancer.&rdquo;
   <em>Genes & Development. </em>
-   <strong>35</strong>847-869 <strong>2021</strong>.
+   <strong>35</strong>, 847-869 <strong>2021</strong>.
   </a>
  <a style="color:blue" href="https://www.biorxiv.org/content/10.1101/2020.11.11.362632v1" target="_blank">[preprint]</a>
 
