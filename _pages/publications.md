@@ -11,6 +11,15 @@ author_profile: true
 
 <table>
 
+<tr><th>2021</th><td>
+  <a href="http://genesdev.cshlp.org/content/35/11-12/847" target="_blank">Olsen, R.O.; Ireland, A.S.; Kastner, D.W.; Groves, S.M.; Spainhower, K.B.; Pozo, K.; Kelenis, D.P.; Whitney, C.P.; Guthrie, M.R.; Wait, S.J.; Soltero, D.; Witt, B.L.; Quaranta, V.; Johnson, J.E.; Oliver, T.G.; &ldquo;ASCL1 represses a SOX9+ neural crest stem-like state in small cell lung cancer.&rdquo;
+  <em>Genes & Development. </em>
+   <strong>35</strong>847-869 <strong>2021</strong>.
+  </a>
+ <a style="color:blue" href="https://www.biorxiv.org/content/10.1101/2020.11.11.362632v1" target="_blank">[preprint]</a>
+
+</td></tr>
+
  <tr><th>2020</th><td>
    <a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30218-X" target="_blank">Ireland, A.S.; Micinski, A.M.; Kastner, D.W.; Guo, B.; Wait, S.J.; Spainhower, K.B.; Conley, C.C.; Chen, O.S.; Guthrie, M.R.; Soltero, D.; Qiao, Y.; Huang, X.; Tarapcsak, S.; Devarakonda, S.; Chalishazar, M.D.; Gertz, J.; Moser, J.C.; Marth, G.; Puri, S.; Witt, B.L.; Spike, B.T.; Oliver, T.G. &ldquo;MYC Drives Temporal Evolution of Small Cell Lung Cancer Subtypes by Reprogramming Neuroendocrine Fate.&rdquo;
    <em>Cancer Cell. </em>
