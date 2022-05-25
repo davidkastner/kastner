@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Kastner"
+title                    : "David W. Kastner"
 title_separator          : "-"
 name                     : &name "David Kastner"
 description              : &description "personal description"
