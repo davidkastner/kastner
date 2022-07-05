@@ -1,6 +1,6 @@
 ---
 title: High-valent Protein Engeineering
-excerpt: "My Ph.D. research at MIT focuses on structure-function relationships in high-valent metalloenzymes through gpu-accelerated quantum mechanics and molecular dynamics calculations. <img src='/images/research/enzyme.png' style='width:100%;margin-top:15px'>"
+excerpt: "My Ph.D. research at MIT focuses on structure-function relationships in high-valent metalloenzymes through gpu-accelerated quantum and molecular dynamics calculations. <img src='/images/research/enzyme.png' style='width:100%;margin-top:15px'>"
 collection: research
 ---
 <strong>Keywords:</strong> QM/MM, TeraChem, Amber, DFT
