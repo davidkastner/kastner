@@ -1,6 +1,6 @@
 ---
 title: High-valent Protein Engeineering
-excerpt: "My Ph.D. research at MIT focuses on understanding structure-function relationships in high-valent metalloenzymes through gpu-accelerated quantum mechanics and molecular dynamics calculations. I am especially interested in iron-containing enzymes such as non-heme iron α-ketoglutarate dependent oxygenases. <img src='/images/research/enzyme.png' style='width:100%;margin-top:15px'>"
+excerpt: "My Ph.D. research at MIT focuses on understanding structure-function relationships in high-valent metalloenzymes through gpu-accelerated quantum mechanics and molecular dynamics calculations in high-valent enzymes. <img src='/images/research/enzyme.png' style='width:100%;margin-top:15px'>"
 collection: research
 ---
 <strong>Keywords:</strong> QM/MM, TeraChem, Amber, DFT
