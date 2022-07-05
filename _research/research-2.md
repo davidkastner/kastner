@@ -1,15 +1,41 @@
 ---
-title: "QM/MM Calculations"
-excerpt: "<strong>Keywords:</strong> Cancer, QM/MM, Gaussian 09, AMBER<br/>
-<img src='/images/structures.png' width='500' height='300'>"
+title: Systems and Molecular Biology
+excerpt: "As a full-time cancer biologist at the Huntsman Cancer Institute, I studied the mechanism of tumor development in small-cell lung cancer. The aim of my research was to uncover vulnerabilities for personalized cancer therapies. <img src='/images/research/biology.png' style='width:100%;margin-top:15px'>"
 collection: research
 ---
+<strong>Keywords:</strong> Cancer biology, bioinformatics, and gene networks
 
-Yaku’amide A (YA) is an extremely rare peptide that was isolated from the deep-sea sponge Ceratopsion sp. Identification and characterization of this peptide unveiled its curious structural profile and its many non-standard amino acids and most noteablly dehydroamino acids. When tested against an array of 39 human cancer cell lines, YA exhibited notable cytotoxicity against P388 murine leukemia cells via a potentially novel mode of action. Many medically relevant peptides, such as Yaku'amide, often contain non-standard amino acids and require de novo parameters proir to computational studies.
-
-Yaku'amide presents itself as a protypical example of such cases becuase its sequence is almost exclusively non-standard and current research surrounding the molecule would benefit from computational structure-function modelling. One approach to handling complex peptides lacking robust parameters is quantum mechanics (QM)/molecular mechanic (MM) hybrid simulations that rely on AMBER forcefield and DFT calculations. QM/MM silmulations are advantageous when modeling peptides containing exotic amino acids, such as dehydroamino acids, becuase they achieve an ideal balance between resource allocation and computational accuracy.
+Understanding protein dynamics requires a variety of biophysical techniques.
 
 <strong>Related Publications:</strong><br/>
-<a style="color:blue" href="http://jur.byu.edu/?p=23292">Kastner, D. W., Castle, S. L. “ONIOM(DFT:MM) Study of Yaku'amide A and Analogues.” Journal of Undergraduate Research, ORCA Grant (2018).</a>
 
-<a style="color:blue" href="https://scholarsarchive.byu.edu/library_studentposters_2018/1/">Kastner, D. W., Ankur, J., Castle, S. L. “Progress Toward Synthetically Simplified Natural Anticancer Peptide.” ScholarsArchive, 2572-4479 (2018).</a>
+<a style="color:blue" href="http://genesdev.cshlp.org/content/35/11-12/847">
+Olsen, R.O.; Ireland, A.S.; <u>Kastner, D.W.</u>; Groves, S.M.; Spainhower, K.B.; Pozo, K.; Kelenis, D.P.; Whitney, C.P.; Guthrie, M.R.; Wait, S.J.; Soltero, D.; Witt, B.L.; Quaranta, V.; Johnson, J.E.; Oliver, T.G.;
+&ldquo;ASCL1 represses a SOX9+ neural crest stem-like state in small cell lung cancer.&rdquo;
+<em>Genes & Development. </em>
+<strong>35</strong>, 847-869 (<strong>2021</strong>).
+</a>
+
+<a style="color:blue" href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30218-X" target="_blank">Ireland, A.S.; Micinski, A.M.; <u>Kastner, D.W.;</u> Guo, B.; Wait, S.J.; Spainhower, K.B.; Conley, C.C.; Chen, O.S.; Guthrie, M.R.; Soltero, D.; Qiao, Y.; Huang, X.; Tarapcsak, S.; Devarakonda, S.; Chalishazar, M.D.; Gertz, J.; Moser, J.C.; Marth, G.; Puri, S.; Witt, B.L.; Spike, B.T.; Oliver, T.G. &ldquo;MYC Drives Temporal Evolution of Small Cell Lung Cancer Subtypes by Reprogramming Neuroendocrine Fate.&rdquo;
+<em>Cancer Cell. </em>
+<strong>1</strong>(38), 60-78 (<strong>2020</strong>).
+</a>
+
+<a style="color:blue" href="https://www.sciencedirect.com/science/article/pii/S0021925820308218?via%3Dihub" target="_blank">
+Morris, D. L., <u>Kastner, D. W.</u>, Johnson, S., Strub, M., He, Y., Bleck, C. K., Lee, D., Tjandra, N.
+&ldquo;Humanin induces conformational changes in the apoptosis regulator BAX and sequesters it into fibers, preventing mitochondrial outer-membrane permeabilization&rdquo;
+<em>Journal of Biological Chemistry. </em>
+<strong>50</strong>(294), 19055-19065 (<strong>2019</strong>).
+</a>
+
+<a style="color:blue" href="https://www.sciencedirect.com/science/article/pii/S0141813018356265" target="_blank">
+Ashraf, N. M., Krishnagopal, A., Hussain, A., <u>Kastner, D. W.</u>, Mahmoud, A., Sayed, M., Mok, Y., Swaminathan, K., Zeeshan, N. &ldquo;Engineering of serine protease for improved thermostability and catalytic activity using rational design&rdquo; <em>Int. J. Biol. Macromolecules. </em>
+<strong>126</strong>(229-237), (<strong>2019</strong>).
+</a>
+
+<a style="color:blue" href="https://www.sciencedirect.com/science/article/pii/S0890850817300695" target="_blank">
+Ashraf, N. M., Imran, K., <u>Kastner, D. W</u>., Ikram, K., Mushtaq, A., Hussain, A., Zeeshan. N. 
+&ldquo;Potential involvement of mi-RNA 574-3p in progression of prostate cancer: A bioinformatic study.&rdquo; 
+<em>Molecular Cell Probes. </em>
+<strong>36</strong>(11), 21-28 (<strong>2017</strong>).
+</a>

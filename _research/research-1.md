@@ -1,15 +1,24 @@
 ---
-title: "Small Molecule and Peptide Design"
-excerpt: "<strong>Keywords:</strong> CYANA, NOESY, Gaussian 09, DFT<br/>
-<img src='/images/betahairpin_2500.png' width='500' height='300'>"
+title: High-valent Protein Engeineering
+excerpt: "My Ph.D. research at MIT focuses on understanding structure-function relationships in high-valent metalloenzymes through gpu-accelerated quantum mechanics and molecular dynamics calculations. I am especially interested in iron-containing enzymes such as non-heme iron α-ketoglutarate dependent oxygenases. <img src='/images/research/enzyme.png' style='width:100%;margin-top:15px'>"
 collection: research
 ---
+<strong>Keywords:</strong> QM/MM, TeraChem, Amber, DFT
 
-Peptides present themselves as phenomenal drug candidates, but the development of novel peptide and protein-based drugs has been slow due to the body’s natural pathways for degrading them through proteolysis. Traditionally, protein engineering has been limited to the 20 standard amino acids. Attempts to engineer additional variation into the diversity of natural protein functionality have been achieved predominantly by reordering primary sequences.1 Peptide design, however, has also benefited significantly from the synthetic incorporation of non-standard amino acids such as β-amino acids, D-amino acids, and α,β-dehydroamino acids (ΔAAs). The literature is replete with a diversity of ‘designer residues’ used to fine tune backbone conformations, side-chain functionality, and reactivity.
 
-In recent years, proteolytically stable peptides have become more prevalent due to new methods of stabilization, which allow for more potent drugs that require fewer doses. One method that merits further exploration is the incorporation of amino acids with unique properties such as bulky dehydroamino acids to create novel sequences. Moreover, dehydroamino acid containing peptides are of particular interest to our lab because of their potent natural antibiotic, antifungal, antitumor, and phytotoxic bioactivity. It is my objective to functionalize these natural ΔAAs to create a library of dehydro residues with unique properties.
 
 <strong>Related Publications:</strong><br/>
-<a style="color:blue" href="https://pubs.acs.org/doi/abs/10.1021/acs.orglett.7b02455">Jalan, A., Kastner, D. W., Webber, K. G. I., Smith, M., Price, J. L., Castle, S. L. “Bulky Dehydroamino Acids Enhance Proteolytic Stability and Folding in β-Hairpin Peptides.” Org. Lett. 19(19), 5190-5193 (2018).</a>
 
-<a style="color:blue" href="https://scholarsarchive.byu.edu/library_studentposters_2017/4/">Kastner, D. W., Ankur, J., Castle, S. L. “Computational Predictions of β-Hairpins Containing Bulky Dehydroamino Acids.” ScholarsArchive, 2572-4479 (2017).</a>
+<a style="color:blue" href="https://pubs.acs.org/doi/full/10.1021/jacs.1c12891">
+Flores, A.D; <u>Kastner, D.W.</u>; Du, Y.; Narayanamoorthy, M.; Shen, Y.; Cai, W.; Vennelakanti, V.; Zill, A.A.; Dell, L.B.; Zhai, R; Kulik, H.J.; Zhang, W.;
+&ldquo;Probing the mechanism of isonitrile formation by a non-heme iron(II)-dependent oxidase/decarboxylase&rdquo;
+<em>Journal of the American Chemical Society. </em>
+<strong>144</strong>(13), 5893-5901 <strong>2022</strong>.
+</a>
+
+<a style="color:blue" href="https://pubs.acs.org/doi/10.1021/acs.jpcb.2c02260">
+Nazemi, A.; Steeves, A.H.; <u>Kastner, D.W.</u>; Kulik, H.J.;
+&ldquo;Influence of the Greater Protein Environment on the Electrostatic Potential in Metalloenzyme Active Sites: The Case of Formate Dehydrogenase&rdquo;
+<em>Journal of the American Chemical Society. </em>
+<strong>126</strong>(22), 2069-4079 <strong>2022</strong>.
+</a>

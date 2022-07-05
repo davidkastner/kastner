@@ -13,7 +13,7 @@ Over seventy years ago in a series of inquisitive lectures, Erwin Schrödinger p
 
 Research Interests
 ======
-My formal education is in biophysics, and my research projects span a diversity of fields: synthetic organic chemistry, mammalian tissue models, quantum chemistry calculations, protein engineering, bioinformatics, etc. I studied organic chemistry under Dr. Steven Castle, protein NMR with Dr. Haribabu Arthanari at Dana Farber/Harvard Cancer Center, and protein dynamics with Dr. Nico Tjandra at the NIH. Currently, I am a full time scientist at the Huntsman Cancer Institute (HCI) under Dr. Trudy Oliver studying small cell lung cancer via genetically engineered mouse models. I will be joining the MIT bioengineering graduate class of 2020.
+My formal education is in biophysics, and my research projects span a diversity of fields: synthetic organic chemistry, mammalian tissue models, quantum chemistry calculations, protein engineering, bioinformatics, etc. I studied organic chemistry under Dr. Steven Castle, protein NMR with Dr. Haribabu Arthanari at Dana Farber/Harvard Cancer Center, and protein dynamics with Dr. Nico Tjandra at the NIH. After graduating, I worked as a full-time scientist at the Huntsman Cancer Institute (HCI) under Dr. Trudy Oliver studying small cell lung cancer via genetically engineered mouse models. I am currently a PhD student at MIT studying high-valent enzymes under the mentorship of Dr. Heather Kulik.
 
 <hr class="styled-hr" style="width:100%;">
 

@@ -11,8 +11,52 @@ author_profile: true
 
 <table>
 
+<tr><th>2022</th><td>
+  <a href="https://pubs.rsc.org/en/content/articlelanding/2022/SC/D1SC05992K" target="_blank">Lo, C.L.; Joaquin, D.L.; Moya, D.A.; Ramos, A.R.; <u>Kastner, D.W.</u>; White, S.M.; Christensen, B.L.; Naglich, J.G.; Degnen, W.J.; Castle, S.L.; &ldquo;Synthesis and evaluation of potent yaku'amide analogs.&rdquo;
+  <em>Chemical Science. </em>
+   <strong>13</strong>(7), 1899-1905 <strong>2022</strong>.
+  </a>
+ <a style="color:blue" href="https://twitter.com/ChemicalScience/status/1494256042309558274?s=20&t=CxpPDexR3FmBfZuqW5CKsg" target="_blank">[cover]</a>
+</td></tr>
+
+ <tr><th></th><td>
+   <a href="https://pubs.acs.org/doi/full/10.1021/jacs.1c12891" target="_blank">
+    Flores, A.D; <u>Kastner, D.W.</u>; Du, Y.; Narayanamoorthy, M.; Shen, Y.; Cai, W.; Vennelakanti, V.; Zill, A.A.; Dell, L.B.; Zhai, R.; Kulik, H.J.; Zhang, W.;
+    &ldquo;Probing the mechanism of isonitrile formation by a non-heme iron(II)-dependent oxidase/decarboxylase&rdquo;
+    <em>Journal of the American Chemical Society </em>
+    <strong>144</strong>(13), 5893-5901 <strong>2022</strong>.
+   </a>
+  <a style="color:blue" href="https://twitter.com/J_A_C_S/status/1511726183330848777?s=20&t=CxpPDexR3FmBfZuqW5CKsg" target="_blank">[cover]</a>
+ </td></tr>
+
+ <tr><th></th><td>
+   <a href="https://www.nature.com/articles/s41597-022-01181-0" target="_blank">
+    Nandy, A.; Terrones, G.; Arunachalam, N.; Duan, C.; <u>Kastner, D.W.</u>; Kulik, H.J.;
+    &ldquo;MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks&rdquo;
+    <em>Scientific Data </em>
+    <strong>9</strong>(74) <strong>2022</strong>.
+   </a>
+  <a style="color:blue" href="https://twitter.com/doescience/status/1504854146473725956?s=20&t=jIGHRRWbqYGNlE6hUiSDUg" target="_blank">[feature]</a>
+  <a style="color:blue" href="https://news.mit.edu/2022/metal-oxide-frameworks-model-0311" target="_blank">[MIT]</a>
+  <a style="color:blue" href="https://www.miragenews.com/computational-modeling-guides-development-of-741802/" target="_blank">[mirage]</a>
+  <a style="color:blue" href="https://www.nanowerk.com/nanotechnology-news2/newsid=60014.php" target="_blank">[nanowerk]</a>
+  <a style="color:blue" href="https://phys.org/news/2022-03-chemical-neural-networks-properties-metal-organic.html" target="_blank">[phys.org]</a>
+  <a style="color:blue" href="https://www.technology.org/2022/03/16/computational-modeling-new-materials/" target="_blank">[technology.org]</a>
+  <a style="color:blue" href="https://www.engineersireland.ie/Engineers-Journal/News/computational-modelling-guides-development-of-new-materials" target="_blank">[ireland]</a>
+ </td></tr>
+
+ <tr><th></th><td>
+   <a href="https://pubs.acs.org/doi/10.1021/acs.jpcb.2c02260" target="_blank">
+    Nazemi, A.; Steeves, A.H.; <u>Kastner, D.W.</u>; Kulik, H.J.;
+    &ldquo;Influence of the Greater Protein Environment on the Electrostatic Potential in Metalloenzyme Active Sites: The Case of Formate Dehydrogenase&rdquo;
+    <em>Journal of the American Chemical Society </em>
+    <strong>126</strong>(22), 2069-4079 <strong>2022</strong>.
+   </a>
+  <a style="color:blue" href="https://pubs.acs.org/pb-assets/images/_journalCovers/jpcbfk/jpcbfk_v126i022.jpg?0.9519844255477177" target="_blank">[cover]</a>
+ </td></tr>
+
 <tr><th>2021</th><td>
-  <a href="http://genesdev.cshlp.org/content/35/11-12/847" target="_blank">Olsen, R.O.; Ireland, A.S.; Kastner, D.W.; Groves, S.M.; Spainhower, K.B.; Pozo, K.; Kelenis, D.P.; Whitney, C.P.; Guthrie, M.R.; Wait, S.J.; Soltero, D.; Witt, B.L.; Quaranta, V.; Johnson, J.E.; Oliver, T.G.; &ldquo;ASCL1 represses a SOX9+ neural crest stem-like state in small cell lung cancer.&rdquo;
+  <a href="http://genesdev.cshlp.org/content/35/11-12/847" target="_blank">Olsen, R.O.; Ireland, A.S.; <u>Kastner, D.W.</u>; Groves, S.M.; Spainhower, K.B.; Pozo, K.; Kelenis, D.P.; Whitney, C.P.; Guthrie, M.R.; Wait, S.J.; Soltero, D.; Witt, B.L.; Quaranta, V.; Johnson, J.E.; Oliver, T.G.; &ldquo;ASCL1 represses a SOX9+ neural crest stem-like state in small cell lung cancer.&rdquo;
   <em>Genes & Development. </em>
    <strong>35</strong>, 847-869 <strong>2021</strong>.
   </a>
@@ -21,7 +65,7 @@ author_profile: true
 </td></tr>
 
  <tr><th>2020</th><td>
-   <a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30218-X" target="_blank">Ireland, A.S.; Micinski, A.M.; Kastner, D.W.; Guo, B.; Wait, S.J.; Spainhower, K.B.; Conley, C.C.; Chen, O.S.; Guthrie, M.R.; Soltero, D.; Qiao, Y.; Huang, X.; Tarapcsak, S.; Devarakonda, S.; Chalishazar, M.D.; Gertz, J.; Moser, J.C.; Marth, G.; Puri, S.; Witt, B.L.; Spike, B.T.; Oliver, T.G. &ldquo;MYC Drives Temporal Evolution of Small Cell Lung Cancer Subtypes by Reprogramming Neuroendocrine Fate.&rdquo;
+   <a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30218-X" target="_blank">Ireland, A.S.; Micinski, A.M.; <u>Kastner, D.W.;</u> Guo, B.; Wait, S.J.; Spainhower, K.B.; Conley, C.C.; Chen, O.S.; Guthrie, M.R.; Soltero, D.; Qiao, Y.; Huang, X.; Tarapcsak, S.; Devarakonda, S.; Chalishazar, M.D.; Gertz, J.; Moser, J.C.; Marth, G.; Puri, S.; Witt, B.L.; Spike, B.T.; Oliver, T.G. &ldquo;MYC Drives Temporal Evolution of Small Cell Lung Cancer Subtypes by Reprogramming Neuroendocrine Fate.&rdquo;
    <em>Cancer Cell. </em>
     <strong>1</strong>(38), 60-78 <strong>2020</strong>.
    </a>
@@ -31,7 +75,7 @@ author_profile: true
 
  <tr><th></th><td>
    <a href="https://pubs.acs.org/doi/10.1021/acs.joc.9b02747" target="_blank">
-    Joaquin, D., Lee, M., <u>Kastner, W. D.,</u> Singh, J., Shardon, D., Damstedt, G., Castle, S.
+    Joaquin, D., Lee, M., <u>Kastner, D.W.,</u> Singh, J., Shardon, D., Damstedt, G., Castle, S.
     &ldquo;Impact of Dehydroamino Acids on the Structure and Stability of Incipient 3<sub></sub>10-Helical Peptides&rdquo;
     <em>The Journal of Organic Chemistry </em>
     <strong>3</strong>(85), 1601-1613 <strong>2020</strong>.
@@ -40,7 +84,7 @@ author_profile: true
  </td></tr>
 
   <tr><th>2019</th><td>
-    <a href="http://www.jbc.org/content/early/2019/11/05/jbc.RA119.011297" target="_blank">
+    <a href="https://www.sciencedirect.com/science/article/pii/S0021925820308218?via%3Dihub" target="_blank">
       Morris, D. L., <u>Kastner, D. W.</u>, Johnson, S., Strub, M., He, Y., Bleck, C. K., Lee, D., Tjandra, N.
       &ldquo;Humanin induces conformational changes in the apoptosis regulator BAX and sequesters it into fibers, preventing mitochondrial outer-membrane permeabilization&rdquo;
       <em>Journal of Biological Chemistry </em>
