@@ -12,7 +12,7 @@ redirect_from:
 <b><a href="https://github.com/davidkastner/pyQMMM" target="_blank">Codebase</a> | <a href="https://pyqmmm.readthedocs.io/en/latest/" target="_blank">Documentation</a></b>
 
 <a href="https://github.com/davidkastner/pyQMMM" target="_blank">
-A python package for manipulating quantumm mechanics (QM), molecular dynamics (MD), and multiscale QM/MM trajectories with an emphasis on manipulating XYZ files. The pyQMMM project contains a variety of scripts for automating common QM trajectory tasks and processing large amounts of MD data as well as a library of functions for customization.<br/>
+A python package for manipulating quantumm mechanics (QM), molecular dynamics (MD), and multiscale QM/MM trajectories with an emphasis on manipulating XYZ files. The pyQMMM project contains a variety of scripts for automating common QM trajectory tasks.<br/>
 <img src='/images/code/pyqmmm.png' style='width:100%;margin-top:15px'>
 </a>
 
@@ -20,6 +20,6 @@ A python package for manipulating quantumm mechanics (QM), molecular dynamics (M
 <b><a href="https://github.com/hjkgrp/MOFSimplify" target="_blank">Codebase</a> | <a href="https://mofsimplify.mit.edu/" target="_blank">Webserver</a></b>
 
 <a href="https://mofsimplify.mit.edu/" target="_blank">
-A workflow and the output of a natural language processing (NLP)-based procedure to mine the extant metal–organic framework (MOF) literature describing structurally characterized MOFs and their solvent removal and thermal stabilities. Our web interface, MOFSimplify, provides users access to our curated data and enables them to make predictions on new MOFs.<br/>
+A workflow and the output of a natural language processing (NLP)-based procedure to mine the extant metal–organic framework (MOF) literature describing structurally characterized MOFs and their solvent removal and thermal stabilities.<br/>
 <img src='/images/code/mof.png' style='width:100%;margin-top:15px'>
 </a>
