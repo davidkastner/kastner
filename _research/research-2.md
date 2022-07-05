@@ -5,7 +5,7 @@ collection: research
 ---
 <strong>Keywords:</strong> Cancer biology, bioinformatics, and gene networks
 
-Understanding protein dynamics requires a variety of biophysical techniques.
+While small cell lung cancer is a leading cause of cancer in the united states, there are few successful treats available for patients. Initially, small cell lung cancer is treated with platinum-based therapies; however, the response is short lived and replase usually occurs with even more aggressive forms of small-cell lung cancer. As part of the Oliver Lab at the Huntsman Cancer Institute, I was interested in understanding the molecular mechanisms of therapeutic response and resistance. We believe that by uncovering the mechanisms of cancer, we can develop personalized cancer therapeutics based on the characteristics of a specific type of cancer and the mutations and mechanistics unique to each tumor population.
 
 <strong>Related Publications:</strong><br/>
 
