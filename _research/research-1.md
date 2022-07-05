@@ -5,7 +5,7 @@ collection: research
 ---
 <strong>Keywords:</strong> QM/MM, TeraChem, Amber, DFT
 
-The overarching direction of my thesis is to elucidate patterns governing substrate-protein relationships in high-valent enzymes. More specifically, I am interested in how the protein environment influences reactivity and substrate specificity in iron-containing enzymes. As it currently stands, my thesis direction can be broken down into three aims: 1) Elucidate the role of the active site and greater protein environment in mediating hydroxylase vs. halogenase reactivity in non-heme iron dioxygenases. 2) Investigate the role of electronic allostery, charge transfer, and electronic perturbations in mediating reactivity in iron-containing enzymes. 3) Leverage modern machine learning techniques to identify patterns in complex MD or multiscale QM/MM simulations.
+The overarching direction of my thesis is to elucidate patterns governing substrate-protein relationships in high-valent enzymes. More specifically, I am interested in how the protein environment influences reactivity and substrate specificity in non-heme iron containing enzymes. As it currently stands, my research spans three general areas of interest. 1) Elucidating the role of the active site and greater protein environment in mediating hydroxylase vs. halogenase reactivity in non-heme iron dioxygenases. 2) Investigating the role of electronic allostery, charge transfer, and electronic perturbations in mediating reactivity in iron-containing enzymes. 3) Leveraging modern machine learning techniques to identify patterns in complex MD or multiscale QM/MM simulations.
 
 <strong>Related Publications:</strong><br/>
 
