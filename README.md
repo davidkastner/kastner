@@ -14,6 +14,4 @@ Installations only have to happen once.
 
 ## Building HTMl
 If you would like to generate HTML to host somewhere else,
-perform the following command sequence.
-
-``` ```
+copy the contents of _site.

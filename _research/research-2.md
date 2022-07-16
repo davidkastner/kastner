@@ -1,6 +1,6 @@
 ---
 title: Systems and Molecular Biology
-excerpt: "As a full-time cancer biologist at the Huntsman Cancer Institute, I uncovered molecular mechanistic vulnerabilities in small-cell lung cancer for personalized cancer therapies. <img src='/images/research/biology.png' style='width:100%;margin-top:15px'>"
+excerpt: "As a full-time cancer biologist at the Huntsman Cancer Institute, I uncovered molecular mechanistic vulnerabilities in small-cell lung cancer for personalized cancer therapies. <img src='/images/biology.png' style='width:100%;margin-top:15px'>"
 collection: research
 ---
 <strong>Keywords:</strong> Cancer biology, bioinformatics, and gene networks
