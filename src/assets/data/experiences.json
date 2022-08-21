@@ -1,0 +1,435 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "startAt": "04-01-2012",
+        "endAt": "04-01-2014",
+        "companyName": "Humanitarian Service",
+        "website": "https://www.churchofjesuschrist.org/?lang=eng",
+        "logo": "assets/template/experience/logo/lds.svg",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Osorno",
+                "country": "Chile",
+                "role": "Missionary",
+                "description": "Como hablante bilingüe americano de herencia latino, el idioma español y su historia han sido factores definidores en el desarrollo de mi identidad. Por consiguiente, decidí servir una misión voluntaria de tiempo completo en Patagonia en el sur de Chile. Hice servicio por más de veinte ciudades en todas partes del sur de Chile a lo largo de dos años. Pasé más tiempo en las ciudades de Villarrica, Valdivia, Puerto Mont, Osorno, la región de Los Lagos, and Lanco.</br></br>Durante mi tiempo en Chile, llegué a querer mucho a la gente de Chile y su cultura y lo hago una prioridad para mantener las conexiones que tengo con Chile. Además, serví en varias posiciones de liderazgo tal como Líder de Zona, donde dirige más de veinte misioneros en la ciudad de Valdivia. Durante mi tiempo de misionero, desarrollé mis capacidades de organización, autodirección, perseverancia, y resiliencia."
+            },
+            {
+                "language": "en",
+                "city": "Osorno",
+                "country": "Chile",
+                "role": "Missionary",
+                "description": "As a bilingual American of Latino heritage, the Spanish language and history have been defining factors in the development of my identity. Consequently, I chose to serve as a full-time humanitarian missionary in Southern Chile. I volunteered in more than 20 cities over a two-year period. For example, I have ties to Villarrica, Valdivia, Puerto Mont, Osorno, the region of Los Lagos, and Lanco. During my time in Chile, I came to love the people and their culture and have made it a priority to maintain connections with those I met in Chile. I served in several positions of leadership, including Zone Leader over more than 20 missionaries in Valdivia.<br><br><ul><li><b>Kastner, D. W.,</b> The Ultimate Triumph of Truth. <b>BYU Speeches</b>, University Commencement, <b>2019</b>.</li></ul>"
+            }
+        ],
+        "technologies": [
+            "Spanish",
+            "Leadership",
+            "Finances",
+            "Communication",
+            "Independence",
+            "Organization"
+        ],
+        "medias": [
+            {
+                "icon": "facebook",
+                "title": "Facebook",
+                "http": "https://www.facebook.com/ChurchofJesusChrist/"
+            },
+            {
+                "icon": "twitter",
+                "title": "Twitter",
+                "http": "https://twitter.com/Ch_JesusChrist"
+            },
+            {
+                "icon": "instagram",
+                "title": "Instagram",
+                "http": "https://www.instagram.com/churchofjesuschrist/"
+            },
+            {
+                "icon": "youtube",
+                "title": "Youtube",
+                "http": "https://www.youtube.com/churchofjesuschrist"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/chile.jpg"
+    },
+    {
+        "id": 2,
+        "position": 2,
+        "startAt": "08-01-2014",
+        "endAt": "08-01-2016",
+        "companyName": "Castle Research Group",
+        "website": "https://chembio.byu.edu/castle-lab",
+        "logo": "assets/template/experience/logo/byu.svg",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Provo",
+                "country": "Utah",
+                "role": "Asistente de investigaciónes",
+                "description": "Durante mi tiempo con el <b>Grupo de Investigaciones Castle</b>, estudié la síntesis química y el diseño de estructuralmente interesantes péptidos. Como parte de mis investigaciones, sintetizé aminoácidos artificiales y los incorporé en péptidos. La literatura es llena de una diversidad de “aminoácidos diseñadores.” Se usan estos residuos modificados para ajustar las conformaciones de la columna, cadenas laterales, y la reactividad. Uno de los residuos que creemos que merece más investigación es el aminoácido dehydro.</br></br> Péptidos que tienen aminoácidos dehydros muestran actividades potentes de antibióticos, antimicóticos, antitumorales, and fitotóxicos bioactividades. Mediante el paquete de software CYANA, calculé sus estructuras usando el NMR and calculaciones mecánicas cuánticas DFT. Mis investigaciones también se trataron de reacciones químicas y sus energéticos."
+            },
+            {
+                "language": "en",
+                "city": "Provo",
+                "country": "Utah",
+                "role": "Research Assistent",
+                "description": "During my time at <b>BYU</b>, I studied the synthesis and design of proteolytically stable peptides. As part of my research, I synthesized non-standard amino acids and incorporated them into peptides. One type of residue that we believe merits further exploration is the dehydroamino acid. Dehydroamino acid-containing peptides exhibit potent natural antibiotic, antifungal, antitumor, and phytotoxic bioactivity. Using the computational software package CYANA, I made structural predictions using NMR and DFT-based quantum mechanics calculations.<br><br><ul><li>Joaquin, D.; Lee, M.; <b>Kastner, D. W.;</b> Singh, J.; Shardon, D.; Damstedt, G.; Castle, S., Impact of Dehydroamino Acids on the Structure and Stability of Incipient 310-Helical Peptides. <i>J. Org. Chem.</i> <b>2020,</b> 3(85), 1601-1613.</li><li>Jalan, A.; <b>Kastner, D. W.;</b> Webber, K. G. I.; Smith, M.; Price, J. L.; Castle, S. L., Bulky Dehydroamino Acids Enhance Proteolytic Stability and Folding in β-Hairpin Peptides. <i>Org. Lett.</i> <b>2018,</b> 19(19), 5190-5193.</li><li>Ashraf, N. M.; Krishnagopal, A.; Hussain, A.; <b>Kastner, D. W.;</b> Mahmoud, A.; Sayed, M.; Mok, Y.; Swaminathan, K.; Zeeshan, N., Engineering of serine protease for improved thermostability and catalytic activity using rational design. <i>Int. J. Biol. Macromol.</i> <b>2019,</b> 126(229-237).</li><li>Ashraf, N. M.; Imran, K.; <b>Kastner, D. W.;</b> Ikram, K.; Mushtaq, A.; Hussain, A.; Zeeshan. N., Potential involvement of mi-RNA 574-3p in progression of prostate cancer: A bioinformatic study. <i>Mol. Cell Probes.</i> <b>2017,</b> 36(11), 21-28.</li></ul>"
+            }
+        ],
+        "technologies": [
+            "NMR",
+            "DFT",
+            "QM",
+            "MD",
+            "QM/MM",
+            "CYANA",
+            "Peptides",
+            "Organic-Chemistry",
+            "Synthesis",
+            "HPC",
+            "β-hairpin",
+            "Python",
+            "Amber",
+            "Gaussian"
+        ],
+        "medias": [
+            {
+                "icon": "twitter",
+                "title": "Twitter",
+                "http": "https://twitter.com/castlelabbyu"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/provo.jpg"
+    },
+    {
+        "id": 3,
+        "position": 3,
+        "startAt": "05-01-2016",
+        "endAt": "05-01-2018",
+        "companyName": "Simmons Center for Cancer Research",
+        "website": "https://sccr.byu.edu/",
+        "logo": "assets/template/experience/logo/sccr.svg",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Provo",
+                "country": "Utah",
+                "role": "Becaria de Investigación",
+                "description": "Como un becario de investigaciones por el <b>Simmons Centro de Investigaciones por Cancer</b>, estudiaba raros péptidos naturales con relaciones inusuales de estructura-funcion y una potencial terapéutica. Mis investigaciones se enfocaron en Yaku’amide A, un péptido extremadamente raro aislado de la mar-profunda esponja, Ceratopsian sp. Al probar contra una coleccion de 39 lineas celulares humanas, Yaku’amide A exhibió potente citotoxicidad contra de las células P388 de leucemia murina por un modo de acción potencialmente novel. Utilizando simulaciones híbridas de mecanismos quántum y mecanismos moleculares tuvimos la capacidad de estudiar sus propiedades no obstante su síntesis laboriosa que viene de su perfil de amino ácido inusual.<br><br><ul><li>Lo, C.L.; Joaquin, D.L.; Moya, D.A.; Ramos, A.R.; <b>Kastner, D.W.</b>; White, S.M.; Christensen, B.L.; Naglich, J.G.; Degnen, W.J.; Castle, S.L.; “Synthesis and evaluation of potent yaku'amide analogs.” <i>Chemical Science</i>. <b>13</b>(7), 1899-1905 <b>2022</b>.</li></ul>"
+            },
+            {
+                "language": "en",
+                "city": "Provo",
+                "country": "Utah",
+                "role": "Research Fellow",
+                "description": "As a <b>Simmons Center for Cancer Research</b> (SCCR) fellow, I studied rare natural peptides with unusual structure-function relationships with and therapeutic potential. My research focused on Yaku’amide A, an extremely rare peptide isolated from the deep-sea sponge Ceratopsion sp. When tested against an array of 39 human cancer cell lines, Yaku’amide A exhibited potent cytotoxicity against P388 murine leukemia cells via a potentially novel mode of action. Using quantum mechanics (QM)/molecular mechanic (MM) hybrid simulations we were able to study its properties despite its laborious synthesis due to its unusual amino acid profile.<br><br><ul><li>Lo, C.L.; Joaquin, D.L.; Moya, D.A.; Ramos, A.R.; <b>Kastner, D.W.;</b> White, S.M.; Christensen, B.L.; Naglich, J.G.; Degnen, W.J.; Castle, S.L., Synthesis and evaluation of potent yaku'amide analogs. <i>Chemical Science</i> <b>2022,</b> 13(7), 1899-1905.</li></ul>"
+            }
+        ],
+        "technologies": [
+            "Cancer",
+            "DFT",
+            "QM",
+            "MD",
+            "QM/MM",
+            "CYANA",
+            "Peptides",
+            "Organic-Chemistry",
+            "Synthesis",
+            "HPC",
+            "Python",
+            "Amber",
+            "Gaussian"
+        ],
+        "medias": [
+            {
+                "icon": "facebook",
+                "title": "Facebook",
+                "http": "https://www.facebook.com/byusccr"
+            },
+            {
+                "icon": "twitter",
+                "title": "Twitter",
+                "http": "https://twitter.com/byusccr"
+            },
+            {
+                "icon": "instagram",
+                "title": "Instagram",
+                "http": "https://www.instagram.com/cougsvscancer/"
+            },
+            {
+                "icon": "youtube",
+                "title": "Youtube",
+                "http": "https://www.youtube.com/channel/UCtPJlo1Z-anLx7L9zNMB9sg?app=desktop"
+            },
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn",
+                "http": "https://www.linkedin.com/company/byu-sccr/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/zions.jpg"
+    },
+    {
+        "id": 4,
+        "position": 4,
+        "startAt": "04-01-2018",
+        "endAt": "07-01-2018",
+        "companyName": "Dana-Farber Cancer Center",
+        "logo": "assets/template/experience/logo/df.svg",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Boston",
+                "country": "MA",
+                "role": "Investigador Visitante",
+                "description": ""
+            },
+            {
+                "language": "en",
+                "city": "Boston",
+                "country": "MA",
+                "role": "Visiting Researcher",
+                "description": "During my internship at the <b>Dana-Farber Cancer Institute (DFCI)</b> in the lab of Dr. Arthanari, I studied the biosynthesis of amino acids and the metabolic pathways surrounding their regulation. Furthermore, I investigated novel methods of isotopically labeling proteins by leveraging pyruvate metabolism. During my internship, I increased my skills in cell culture, protein extraction and preparation, NMR procedures and theory, data processing, and literature curation."
+            }
+        ],
+        "technologies": [
+            "NMR",
+            "Proteins",
+            "Metabolomics",
+            "cell-culture",
+            "protein-purification",
+            "Python"
+        ],
+        "medias": [
+            {
+                "icon": "facebook",
+                "title": "Facebook",
+                "http": "https://www.facebook.com/danafarbercancerinstitute"
+            },
+            {
+                "icon": "twitter",
+                "title": "Twitter",
+                "http": "https://twitter.com/DanaFarber"
+            },
+            {
+                "icon": "instagram",
+                "title": "Instagram",
+                "http": "https://www.instagram.com/danafarber/?hl=en"
+            },
+            {
+                "icon": "youtube",
+                "title": "Youtube",
+                "http": "https://www.youtube.com/c/danafarber/"
+            },
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn",
+                "http": "https://www.linkedin.com/company/dana-farber-cancer-institute/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/boston.jpg"
+    },
+    {
+        "id": 5,
+        "position": 5,
+        "startAt": "06-01-2018",
+        "endAt": "10-01-2018",
+        "companyName": "National Institutes of Health",
+        "website": "https://irp.nih.gov/pi/nico-tjandra",
+        "logo": "assets/template/experience/logo/nih.svg",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Bethesda",
+                "country": "MD",
+                "role": "Investigador Visitante",
+                "description": ""
+            },
+            {
+                "language": "en",
+                "city": "Bethesda",
+                "country": "MD",
+                "role": "Visiting Researcher",
+                "description": "During my internship at the <b>National Institutes of Health (NIH)</b> in the lab of Dr. Nico Tjandra, I studied conformational biophysics of the apoptotic protein called BCL-2 Associated X protein (BAX). My research focused on its unusual interaction with the small peptide Humanin implicated in cancer and aging. Our research revealed a nuanced interaction between BAX and Humanin that resulted in the formation of Humanin-based fibrils that in turn inhibited the apoptotic pathway.<br><br><ul><li>Morris, D. L.; <b>Kastner, D. W.;</b> Johnson, S.; Strub, M.; He, Y.; Bleck, C. K.; Lee, D., Tjandra, N., Humanin induces conformational changes in the apoptosis regulator BAX and sequesters it into fibers, preventing mitochondrial outer-membrane permeabilization. <i>J. Biol. Chem.</i> </b>2019,</b> 50(294), 19055-19065.</li><ul>"
+            }
+        ],
+        "technologies": [
+            "Biophysics",
+            "Light-scattering",
+            "Electron-microscopy",
+            "NMR",
+            "Peptides",
+            "Cancer",
+            "Apoptosis",
+            "Aggregation",
+            "Fibrilization",
+            "Python"
+        ],
+        "medias": [
+            {
+                "icon": "facebook",
+                "title": "Facebook",
+                "http": "https://www.facebook.com/nih.gov"
+            },
+            {
+                "icon": "twitter",
+                "title": "Twitter",
+                "http": "https://twitter.com/NIH"
+            },
+            {
+                "icon": "instagram",
+                "title": "Instagram",
+                "http": "https://www.instagram.com/nihgov/"
+            },
+            {
+                "icon": "youtube",
+                "title": "Youtube",
+                "http": "https://www.youtube.com/user/NIHOD/"
+            },
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn",
+                "http": "https://www.linkedin.com/company/national-institutes-of-health/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/bethesda.jpg"
+    },
+    {
+        "id": 6,
+        "position": 6,
+        "startAt": "12-01-2018",
+        "endAt": "08-01-2020",
+        "companyName": "Huntsman Cancer Institute",
+        "website": "https://healthcare.utah.edu/huntsmancancerinstitute/",
+        "logo": "assets/template/experience/logo/hci.svg",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "El Lago Salado",
+                "country": "Utah",
+                "role": "Biológico de Cancer",
+                "description": ""
+            },
+            {
+                "language": "en",
+                "city": "Salt Lake City",
+                "country": "Netherlands",
+                "role": "Cancer Biologist",
+                "description": "At the <b>Huntsman Cancer Institute (HCI)</b>, I researched the molecular mechanisms and therapeutic response and resistance of small cell lung cancer (SCLC). SCLC is a leading cause of cancer in the United States with few treatments available. Initially, SCLC is treated with platinum-based therapies; however, the response is short lived. Relapse usually occurs, resulting in even more aggressive metastatic tumors. We believe that by uncovering the mechanisms of SCLC, we can develop personalized therapeutics based on the mutations and mechanisms unique to each tumor population.<br><br><ul><li>Olsen, R. O.; Ireland, A. S.; <b>Kastner, D. W.;</b> Groves, S. M.; Spainhower, K. B.; Pozo, K.; Kelenis, D. P.; Whitney, C. P.; Guthrie, M. R.; Wait, S. J.; Soltero, D.; Witt, B. L.; Quaranta, V.; Johnson, J. E.; Oliver, T. G., ASCL1 represses a SOX9+ neural crest stem-like state in small cell lung cancer. <i>Genes & Development</i> <b>2021,</b> 35, 847-869.</li><li>Ireland, A. S.; Micinski, A. M.; <b>Kastner, D. W.;</b> Guo, B.; Wait, S. J.; Spainhower, K. B.; Conley, C. C.; Chen, O. S.; Guthrie, M. R.; Soltero, D.; Qiao, Y.; Huang, X.; Tarapcsak, S.; Devarakonda, S.; Chalishazar, M. D.; Gertz, J.; Moser, J.C.; Marth, G.; Puri, S.; Witt, B. L.; Spike, B. T.; Oliver, T. G., MYC Drives Temporal Evolution of Small Cell Lung Cancer Subtypes by Reprogramming Neuroendocrine Fate. <i>Cancer Cell</i> <b>2020,</b> 1(38), 60-78.</li></ul>"
+            }
+        ],
+        "technologies": [
+            "Cancer",
+            "Lung-cancer",
+            "Small cell",
+            "Squamous",
+            "RNA-sequencing",
+            "GSEA",
+            "IHC",
+            "Microscopy",
+            "Pathology",
+            "Network-analysis",
+            "Osteosarcoma",
+            "MYC"
+        ],
+        "medias": [
+            {
+                "icon": "facebook",
+                "title": "Facebook",
+                "http": "https://www.facebook.com/HuntsmanCancerInstitute"
+            },
+            {
+                "icon": "twitter",
+                "title": "Twitter",
+                "http": "https://twitter.com/huntsmancancer"
+            },
+            {
+                "icon": "instagram",
+                "title": "Instagram",
+                "http": "https://www.instagram.com/huntsmancancerinstitute/"
+            },
+            {
+                "icon": "youtube",
+                "title": "Youtube",
+                "http": "https://www.youtube.com/user/huntsmancancervideos/featured"
+            },
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn",
+                "http": "https://www.linkedin.com/company/huntsman-cancer-institute/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/sl.jpg"
+    },
+    {
+        "id": 7,
+        "position": 7,
+        "startAt": "09-01-2020",
+        "companyName": "Massachusetts Institute of Technology",
+        "website": "http://hjkgrp.mit.edu/",
+        "logo": "assets/template/experience/logo/mit.svg",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Cambridge",
+                "country": "MA",
+                "role": "Engeniero Biologico Doctorado Candidato",
+                "description": ""
+            },
+            {
+                "language": "en",
+                "city": "Cambridge",
+                "country": "MA",
+                "role": "Bioengineering Ph.D. Candidate",
+                "description": "The overarching direction of my thesis in the <b>Kulik Lab at MIT</b> is to elucidate patterns governing substrate-protein relationships in high-valent enzymes. More specifically, I am interested in how the protein environment influences reactivity and substrate specificity in non-heme iron containing enzymes. My research spans three general areas of interest. 1) Elucidating the role of the active site and greater protein environment in mediating hydroxylase vs. halogenase reactivity in non-heme iron dioxygenases. 2) Investigating the role of electronic allostery, charge transfer, and electronic perturbations in mediating reactivity in iron-containing enzymes. 3) Leveraging modern machine learning techniques to identify patterns in complex MD or multiscale QM/MM simulations.<br><br><ul><li>Nandy, A.; Adamji, H.; <b>Kastner D. W.;</b> Vennelakanti, V.; Nazemi, A.; Liu, M.; Kulik, H., Using computational chemistry to reveal natures blueprints for single-site catalysis. <i>ACS Catal.</i> <b>2022,</b> 12(15), 9281-9306.</li><li>Nazemi, A.; Steeves, A. H.; <b>Kastner, D. W.;</b> Kulik, H. J., Influence of the greater protein environment on the electrostatic potential in metalloenzyme active sites: The case of formate dehydrogenase. <i>J. Phys. Chem. B</i> <b>2022,</b> 126(22), 4069-4079.</li><li>Flores, A. D; <b>Kastner, D. W.</b>; Du, Y.; Narayanamoorthy, M.; Shen, Y.; Cai, W.; Vennelakanti, V.; Zill, A. A.; Dell, L. B.; Zhai, R.; Kulik, H. J.; Zhang, W., Probing the mechanism of isonitrile formation by a non-heme iron(II)-dependent oxidase/decarboxylase. <i>JACS</i> <b>2022,</b> 144(13), 5893-5901.</li><li>Nandy, A.; Terrones, G.; Arunachalam, N.; Duan, C.; <b>Kastner, D. W.;</b> Kulik, H. J., MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks. <i>Scientific Data</i> <b>2022,</b> 9(74).</li></ul>"
+            }
+        ],
+        "technologies": [
+            "QM",
+            "MD",
+            "DFT",
+            "Python",
+            "QM/MM",
+            "TeraChem",
+            "Amber",
+            "GPUs",
+            "HPC",
+            "ML",
+            "MCPB",
+            "VMD",
+            "PyMol",
+            "Chimera"
+        ],
+        "medias": [
+            {
+                "icon": "facebook",
+                "title": "Facebook",
+                "http": "https://www.facebook.com/MITnews"
+            },
+            {
+                "icon": "twitter",
+                "title": "Twitter",
+                "http": "https://twitter.com/mit"
+            },
+            {
+                "icon": "instagram",
+                "title": "Instagram",
+                "http": "https://www.instagram.com/mitpics/"
+            },
+            {
+                "icon": "youtube",
+                "title": "Youtube",
+                "http": "https://www.youtube.com/mit"
+            },
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn",
+                "http": "https://www.linkedin.com/school/mit/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/mit.jpg"
+    }
+]

@@ -1,0 +1,85 @@
+import { NgModule, Optional, NgZone, InjectionToken, Injector, APP_INITIALIZER } from '@angular/core';
+import { ɵgetDefaultInstanceOf, ɵAngularFireSchedulers, VERSION, ɵisRemoteConfigSupportedFactory } from '@angular/fire';
+import { RemoteConfig, RemoteConfigInstances, REMOTE_CONFIG_PROVIDER_NAME } from './remote-config';
+import { FirebaseApps, FirebaseApp } from '@angular/fire/app';
+import { registerVersion } from 'firebase/app';
+import * as i0 from "@angular/core";
+export const PROVIDED_REMOTE_CONFIG_INSTANCES = new InjectionToken('angularfire2.remote-config-instances');
+export function defaultRemoteConfigInstanceFactory(provided, defaultApp) {
+    if (!ɵisRemoteConfigSupportedFactory.sync()) {
+        return null;
+    }
+    const defaultRemoteConfig = ɵgetDefaultInstanceOf(REMOTE_CONFIG_PROVIDER_NAME, provided, defaultApp);
+    return defaultRemoteConfig && new RemoteConfig(defaultRemoteConfig);
+}
+export function remoteConfigInstanceFactory(fn) {
+    return (zone, injector) => {
+        if (!ɵisRemoteConfigSupportedFactory.sync()) {
+            return null;
+        }
+        const remoteConfig = zone.runOutsideAngular(() => fn(injector));
+        return new RemoteConfig(remoteConfig);
+    };
+}
+const REMOTE_CONFIG_INSTANCES_PROVIDER = {
+    provide: RemoteConfigInstances,
+    deps: [
+        [new Optional(), PROVIDED_REMOTE_CONFIG_INSTANCES],
+    ]
+};
+const DEFAULT_REMOTE_CONFIG_INSTANCE_PROVIDER = {
+    provide: RemoteConfig,
+    useFactory: defaultRemoteConfigInstanceFactory,
+    deps: [
+        [new Optional(), PROVIDED_REMOTE_CONFIG_INSTANCES],
+        FirebaseApp,
+    ]
+};
+export class RemoteConfigModule {
+    constructor() {
+        registerVersion('angularfire', VERSION.full, 'rc');
+    }
+}
+RemoteConfigModule.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "12.1.3", ngImport: i0, type: RemoteConfigModule, deps: [], target: i0.ɵɵFactoryTarget.NgModule });
+RemoteConfigModule.ɵmod = i0.ɵɵngDeclareNgModule({ minVersion: "12.0.0", version: "12.1.3", ngImport: i0, type: RemoteConfigModule });
+RemoteConfigModule.ɵinj = i0.ɵɵngDeclareInjector({ minVersion: "12.0.0", version: "12.1.3", ngImport: i0, type: RemoteConfigModule, providers: [
+        DEFAULT_REMOTE_CONFIG_INSTANCE_PROVIDER,
+        REMOTE_CONFIG_INSTANCES_PROVIDER,
+        {
+            provide: APP_INITIALIZER,
+            useValue: ɵisRemoteConfigSupportedFactory.async,
+            multi: true,
+        },
+    ] });
+i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "12.1.3", ngImport: i0, type: RemoteConfigModule, decorators: [{
+            type: NgModule,
+            args: [{
+                    providers: [
+                        DEFAULT_REMOTE_CONFIG_INSTANCE_PROVIDER,
+                        REMOTE_CONFIG_INSTANCES_PROVIDER,
+                        {
+                            provide: APP_INITIALIZER,
+                            useValue: ɵisRemoteConfigSupportedFactory.async,
+                            multi: true,
+                        },
+                    ]
+                }]
+        }], ctorParameters: function () { return []; } });
+export function provideRemoteConfig(fn, ...deps) {
+    return {
+        ngModule: RemoteConfigModule,
+        providers: [{
+                provide: PROVIDED_REMOTE_CONFIG_INSTANCES,
+                useFactory: remoteConfigInstanceFactory(fn),
+                multi: true,
+                deps: [
+                    NgZone,
+                    Injector,
+                    ɵAngularFireSchedulers,
+                    FirebaseApps,
+                    ...deps,
+                ]
+            }]
+    };
+}
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicmVtb3RlLWNvbmZpZy5tb2R1bGUuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi9zcmMvcmVtb3RlLWNvbmZpZy9yZW1vdGUtY29uZmlnLm1vZHVsZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxPQUFPLEVBQUUsUUFBUSxFQUFFLFFBQVEsRUFBRSxNQUFNLEVBQUUsY0FBYyxFQUF1QixRQUFRLEVBQUUsZUFBZSxFQUFFLE1BQU0sZUFBZSxDQUFDO0FBRTNILE9BQU8sRUFBRSxxQkFBcUIsRUFBRSxzQkFBc0IsRUFBRSxPQUFPLEVBQUUsK0JBQStCLEVBQUUsTUFBTSxlQUFlLENBQUM7QUFDeEgsT0FBTyxFQUFFLFlBQVksRUFBRSxxQkFBcUIsRUFBRSwyQkFBMkIsRUFBRSxNQUFNLGlCQUFpQixDQUFDO0FBQ25HLE9BQU8sRUFBRSxZQUFZLEVBQUUsV0FBVyxFQUFFLE1BQU0sbUJBQW1CLENBQUM7QUFDOUQsT0FBTyxFQUFFLGVBQWUsRUFBRSxNQUFNLGNBQWMsQ0FBQzs7QUFFL0MsTUFBTSxDQUFDLE1BQU0sZ0NBQWdDLEdBQUcsSUFBSSxjQUFjLENBQWlCLHNDQUFzQyxDQUFDLENBQUM7QUFFM0gsTUFBTSxVQUFVLGtDQUFrQyxDQUNoRCxRQUEwQyxFQUMxQyxVQUF1QjtJQUV2QixJQUFJLENBQUMsK0JBQStCLENBQUMsSUFBSSxFQUFFLEVBQUU7UUFBRSxPQUFPLElBQUksQ0FBQztLQUFFO0lBQzdELE1BQU0sbUJBQW1CLEdBQUcscUJBQXFCLENBQXVCLDJCQUEyQixFQUFFLFFBQVEsRUFBRSxVQUFVLENBQUMsQ0FBQztJQUMzSCxPQUFPLG1CQUFtQixJQUFJLElBQUksWUFBWSxDQUFDLG1CQUFtQixDQUFDLENBQUM7QUFDdEUsQ0FBQztBQUVELE1BQU0sVUFBVSwyQkFBMkIsQ0FBQyxFQUFnRDtJQUMxRixPQUFPLENBQUMsSUFBWSxFQUFFLFFBQWtCLEVBQUUsRUFBRTtRQUMxQyxJQUFJLENBQUMsK0JBQStCLENBQUMsSUFBSSxFQUFFLEVBQUU7WUFBRSxPQUFPLElBQUksQ0FBQztTQUFFO1FBQzdELE1BQU0sWUFBWSxHQUFHLElBQUksQ0FBQyxpQkFBaUIsQ0FBQyxHQUFHLEVBQUUsQ0FBQyxFQUFFLENBQUMsUUFBUSxDQUFDLENBQUMsQ0FBQztRQUNoRSxPQUFPLElBQUksWUFBWSxDQUFDLFlBQVksQ0FBQyxDQUFDO0lBQ3hDLENBQUMsQ0FBQztBQUNKLENBQUM7QUFFRCxNQUFNLGdDQUFnQyxHQUFHO0lBQ3ZDLE9BQU8sRUFBRSxxQkFBcUI7SUFDOUIsSUFBSSxFQUFFO1FBQ0osQ0FBQyxJQUFJLFFBQVEsRUFBRSxFQUFFLGdDQUFnQyxDQUFFO0tBQ3BEO0NBQ0YsQ0FBQztBQUVGLE1BQU0sdUNBQXVDLEdBQUc7SUFDOUMsT0FBTyxFQUFFLFlBQVk7SUFDckIsVUFBVSxFQUFFLGtDQUFrQztJQUM5QyxJQUFJLEVBQUU7UUFDSixDQUFDLElBQUksUUFBUSxFQUFFLEVBQUUsZ0NBQWdDLENBQUU7UUFDbkQsV0FBVztLQUNaO0NBQ0YsQ0FBQztBQWFGLE1BQU0sT0FBTyxrQkFBa0I7SUFDN0I7UUFDRSxlQUFlLENBQUMsYUFBYSxFQUFFLE9BQU8sQ0FBQyxJQUFJLEVBQUUsSUFBSSxDQUFDLENBQUM7SUFDckQsQ0FBQzs7K0dBSFUsa0JBQWtCO2dIQUFsQixrQkFBa0I7Z0hBQWxCLGtCQUFrQixhQVZsQjtRQUNULHVDQUF1QztRQUN2QyxnQ0FBZ0M7UUFDaEM7WUFDRSxPQUFPLEVBQUUsZUFBZTtZQUN4QixRQUFRLEVBQUUsK0JBQStCLENBQUMsS0FBSztZQUMvQyxLQUFLLEVBQUUsSUFBSTtTQUNaO0tBQ0Y7MkZBRVUsa0JBQWtCO2tCQVg5QixRQUFRO21CQUFDO29CQUNSLFNBQVMsRUFBRTt3QkFDVCx1Q0FBdUM7d0JBQ3ZDLGdDQUFnQzt3QkFDaEM7NEJBQ0UsT0FBTyxFQUFFLGVBQWU7NEJBQ3hCLFFBQVEsRUFBRSwrQkFBK0IsQ0FBQyxLQUFLOzRCQUMvQyxLQUFLLEVBQUUsSUFBSTt5QkFDWjtxQkFDRjtpQkFDRjs7QUFPRCxNQUFNLFVBQVUsbUJBQW1CLENBQUMsRUFBOEIsRUFBRSxHQUFHLElBQVc7SUFDaEYsT0FBTztRQUNMLFFBQVEsRUFBRSxrQkFBa0I7UUFDNUIsU0FBUyxFQUFFLENBQUM7Z0JBQ1YsT0FBTyxFQUFFLGdDQUFnQztnQkFDekMsVUFBVSxFQUFFLDJCQUEyQixDQUFDLEVBQUUsQ0FBQztnQkFDM0MsS0FBSyxFQUFFLElBQUk7Z0JBQ1gsSUFBSSxFQUFFO29CQUNKLE1BQU07b0JBQ04sUUFBUTtvQkFDUixzQkFBc0I7b0JBQ3RCLFlBQVk7b0JBQ1osR0FBRyxJQUFJO2lCQUNSO2FBQ0YsQ0FBQztLQUNILENBQUM7QUFDSixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgTmdNb2R1bGUsIE9wdGlvbmFsLCBOZ1pvbmUsIEluamVjdGlvblRva2VuLCBNb2R1bGVXaXRoUHJvdmlkZXJzLCBJbmplY3RvciwgQVBQX0lOSVRJQUxJWkVSIH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7XG5pbXBvcnQgeyBSZW1vdGVDb25maWcgYXMgRmlyZWJhc2VSZW1vdGVDb25maWcgfSBmcm9tICdmaXJlYmFzZS9yZW1vdGUtY29uZmlnJztcbmltcG9ydCB7IMm1Z2V0RGVmYXVsdEluc3RhbmNlT2YsIMm1QW5ndWxhckZpcmVTY2hlZHVsZXJzLCBWRVJTSU9OLCDJtWlzUmVtb3RlQ29uZmlnU3VwcG9ydGVkRmFjdG9yeSB9IGZyb20gJ0Bhbmd1bGFyL2ZpcmUnO1xuaW1wb3J0IHsgUmVtb3RlQ29uZmlnLCBSZW1vdGVDb25maWdJbnN0YW5jZXMsIFJFTU9URV9DT05GSUdfUFJPVklERVJfTkFNRSB9IGZyb20gJy4vcmVtb3RlLWNvbmZpZyc7XG5pbXBvcnQgeyBGaXJlYmFzZUFwcHMsIEZpcmViYXNlQXBwIH0gZnJvbSAnQGFuZ3VsYXIvZmlyZS9hcHAnO1xuaW1wb3J0IHsgcmVnaXN0ZXJWZXJzaW9uIH0gZnJvbSAnZmlyZWJhc2UvYXBwJztcblxuZXhwb3J0IGNvbnN0IFBST1ZJREVEX1JFTU9URV9DT05GSUdfSU5TVEFOQ0VTID0gbmV3IEluamVjdGlvblRva2VuPFJlbW90ZUNvbmZpZ1tdPignYW5ndWxhcmZpcmUyLnJlbW90ZS1jb25maWctaW5zdGFuY2VzJyk7XG5cbmV4cG9ydCBmdW5jdGlvbiBkZWZhdWx0UmVtb3RlQ29uZmlnSW5zdGFuY2VGYWN0b3J5KFxuICBwcm92aWRlZDogRmlyZWJhc2VSZW1vdGVDb25maWdbXXx1bmRlZmluZWQsXG4gIGRlZmF1bHRBcHA6IEZpcmViYXNlQXBwLFxuKSB7XG4gIGlmICghybVpc1JlbW90ZUNvbmZpZ1N1cHBvcnRlZEZhY3Rvcnkuc3luYygpKSB7IHJldHVybiBudWxsOyB9XG4gIGNvbnN0IGRlZmF1bHRSZW1vdGVDb25maWcgPSDJtWdldERlZmF1bHRJbnN0YW5jZU9mPEZpcmViYXNlUmVtb3RlQ29uZmlnPihSRU1PVEVfQ09ORklHX1BST1ZJREVSX05BTUUsIHByb3ZpZGVkLCBkZWZhdWx0QXBwKTtcbiAgcmV0dXJuIGRlZmF1bHRSZW1vdGVDb25maWcgJiYgbmV3IFJlbW90ZUNvbmZpZyhkZWZhdWx0UmVtb3RlQ29uZmlnKTtcbn1cblxuZXhwb3J0IGZ1bmN0aW9uIHJlbW90ZUNvbmZpZ0luc3RhbmNlRmFjdG9yeShmbjogKGluamVjdG9yOiBJbmplY3RvcikgPT4gRmlyZWJhc2VSZW1vdGVDb25maWcpIHtcbiAgcmV0dXJuICh6b25lOiBOZ1pvbmUsIGluamVjdG9yOiBJbmplY3RvcikgPT4ge1xuICAgIGlmICghybVpc1JlbW90ZUNvbmZpZ1N1cHBvcnRlZEZhY3Rvcnkuc3luYygpKSB7IHJldHVybiBudWxsOyB9XG4gICAgY29uc3QgcmVtb3RlQ29uZmlnID0gem9uZS5ydW5PdXRzaWRlQW5ndWxhcigoKSA9PiBmbihpbmplY3RvcikpO1xuICAgIHJldHVybiBuZXcgUmVtb3RlQ29uZmlnKHJlbW90ZUNvbmZpZyk7XG4gIH07XG59XG5cbmNvbnN0IFJFTU9URV9DT05GSUdfSU5TVEFOQ0VTX1BST1ZJREVSID0ge1xuICBwcm92aWRlOiBSZW1vdGVDb25maWdJbnN0YW5jZXMsXG4gIGRlcHM6IFtcbiAgICBbbmV3IE9wdGlvbmFsKCksIFBST1ZJREVEX1JFTU9URV9DT05GSUdfSU5TVEFOQ0VTIF0sXG4gIF1cbn07XG5cbmNvbnN0IERFRkFVTFRfUkVNT1RFX0NPTkZJR19JTlNUQU5DRV9QUk9WSURFUiA9IHtcbiAgcHJvdmlkZTogUmVtb3RlQ29uZmlnLFxuICB1c2VGYWN0b3J5OiBkZWZhdWx0UmVtb3RlQ29uZmlnSW5zdGFuY2VGYWN0b3J5LFxuICBkZXBzOiBbXG4gICAgW25ldyBPcHRpb25hbCgpLCBQUk9WSURFRF9SRU1PVEVfQ09ORklHX0lOU1RBTkNFUyBdLFxuICAgIEZpcmViYXNlQXBwLFxuICBdXG59O1xuXG5ATmdNb2R1bGUoe1xuICBwcm92aWRlcnM6IFtcbiAgICBERUZBVUxUX1JFTU9URV9DT05GSUdfSU5TVEFOQ0VfUFJPVklERVIsXG4gICAgUkVNT1RFX0NPTkZJR19JTlNUQU5DRVNfUFJPVklERVIsXG4gICAge1xuICAgICAgcHJvdmlkZTogQVBQX0lOSVRJQUxJWkVSLFxuICAgICAgdXNlVmFsdWU6IMm1aXNSZW1vdGVDb25maWdTdXBwb3J0ZWRGYWN0b3J5LmFzeW5jLFxuICAgICAgbXVsdGk6IHRydWUsXG4gICAgfSxcbiAgXVxufSlcbmV4cG9ydCBjbGFzcyBSZW1vdGVDb25maWdNb2R1bGUge1xuICBjb25zdHJ1Y3RvcigpIHtcbiAgICByZWdpc3RlclZlcnNpb24oJ2FuZ3VsYXJmaXJlJywgVkVSU0lPTi5mdWxsLCAncmMnKTtcbiAgfVxufVxuXG5leHBvcnQgZnVuY3Rpb24gcHJvdmlkZVJlbW90ZUNvbmZpZyhmbjogKCkgPT4gRmlyZWJhc2VSZW1vdGVDb25maWcsIC4uLmRlcHM6IGFueVtdKTogTW9kdWxlV2l0aFByb3ZpZGVyczxSZW1vdGVDb25maWdNb2R1bGU+IHtcbiAgcmV0dXJuIHtcbiAgICBuZ01vZHVsZTogUmVtb3RlQ29uZmlnTW9kdWxlLFxuICAgIHByb3ZpZGVyczogW3tcbiAgICAgIHByb3ZpZGU6IFBST1ZJREVEX1JFTU9URV9DT05GSUdfSU5TVEFOQ0VTLFxuICAgICAgdXNlRmFjdG9yeTogcmVtb3RlQ29uZmlnSW5zdGFuY2VGYWN0b3J5KGZuKSxcbiAgICAgIG11bHRpOiB0cnVlLFxuICAgICAgZGVwczogW1xuICAgICAgICBOZ1pvbmUsXG4gICAgICAgIEluamVjdG9yLFxuICAgICAgICDJtUFuZ3VsYXJGaXJlU2NoZWR1bGVycyxcbiAgICAgICAgRmlyZWJhc2VBcHBzLFxuICAgICAgICAuLi5kZXBzLFxuICAgICAgXVxuICAgIH1dXG4gIH07XG59XG4iXX0=
