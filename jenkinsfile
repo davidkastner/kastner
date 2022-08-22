@@ -21,8 +21,8 @@ pipeline {
         */       
         stage('Deploy') {
             steps {
-                sh 'rm -r /var/www/guilhermeborgesbastos.com/html/*'
-                sh 'cp -r ./dist/* /var/www/guilhermeborgesbastos.com/html/'
+                sh 'rm -r /var/www/kastner.io/html/*'
+                sh 'cp -r ./dist/* /var/www/kastner.io/html/'
             }
         }             
     }

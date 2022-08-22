@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://guilhermeborgesbastos.com/sitemap.xml
+Sitemap: https://kastner.io/sitemap.xml
