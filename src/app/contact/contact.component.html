@@ -39,7 +39,7 @@
                     <div class="form-group">
                         <label for="name" i18n="contact@@name">Your name:</label>
                         <input [class.is-invalid]="senderName.invalid && senderName.touched" type="text" name="name"
-                            i18n-placeholder="contact@@namePlaceholder" placeholder="Schrodinger"
+                            i18n-placeholder="contact@@namePlaceholder" placeholder="Erwin Schrodinger"
                             formControlName="name">
                         <div class="warnings" *ngIf="(senderName.invalid && senderName.touched) || senderName.dirty">
                             <!--question mark(?) is a safe navigation operator-->

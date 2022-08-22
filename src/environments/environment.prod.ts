@@ -5,7 +5,7 @@ export const environment = {
     caricature: "protein.png",
     name: "David W. Kastner",
     birth: "1992-07-39",
-    email: "kastner@gmit.com",
+    email: "kastner@mit.com",
     phone: "(707) 492 5558",
     location: "Cambridge, MA"
   },
