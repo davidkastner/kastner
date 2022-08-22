@@ -12,7 +12,7 @@
       "i18n": {
         "sourceLocale": "en-US",
         "locales": {
-          "pt": {
+          "sp": {
             "translation": "src/locales/messages.pt.xlf",
             "baseHref": ""
           },
@@ -80,10 +80,10 @@
               "baseHref": "/en/",
               "i18nMissingTranslation": "error"
             },
-            "pt": {
+            "sp": {
               "aot": true,
               "localize": [
-                "pt"
+                "sp"
               ],
               "outputPath": "dist/pt/",
               "baseHref": "/pt/",
@@ -106,7 +106,7 @@
             "en": {
               "browserTarget": "live-resume:build:en"
             },
-            "pt": {
+            "sp": {
               "browserTarget": "live-resume:build:pt"
             },
             "es5": {

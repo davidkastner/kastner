@@ -9,11 +9,11 @@
         "logo": "assets/template/experience/logo/lds.svg",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "sp",
                 "city": "Osorno",
                 "country": "Chile",
                 "role": "Missionary",
-                "description": "Como hablante bilingüe americano de herencia latino, el idioma español y su historia han sido factores definidores en el desarrollo de mi identidad. Por consiguiente, decidí servir una misión voluntaria de tiempo completo en Patagonia en el sur de Chile. Hice servicio por más de veinte ciudades en todas partes del sur de Chile a lo largo de dos años. Pasé más tiempo en las ciudades de Villarrica, Valdivia, Puerto Mont, Osorno, la región de Los Lagos, and Lanco.</br></br>Durante mi tiempo en Chile, llegué a querer mucho a la gente de Chile y su cultura y lo hago una prioridad para mantener las conexiones que tengo con Chile. Además, serví en varias posiciones de liderazgo tal como Líder de Zona, donde dirige más de veinte misioneros en la ciudad de Valdivia. Durante mi tiempo de misionero, desarrollé mis capacidades de organización, autodirección, perseverancia, y resiliencia."
+                "description": "Como hablante bilingüe americano de herencia latino, el idioma español y su historia han sido factores definidores en el desarrollo de mi identidad. Por consiguiente, decidí servir una misión voluntaria de tiempo completo en Patagonia en el sur de Chile. Hice servicio por más de veinte ciudades a lo largo de dos años. Por ejemplo, mantengo lazos a las ciudades de Villarrica, Valdivia, Puerto Mont, Osorno, la región de Los Lagos, and Lanco. Durante mi tiempo en Chile, llegué a querer mucho a la gente de Chile y su cultura y lo hago una prioridad para mantener las conexiones que tengo con Chile. Serví en varias posiciones de liderazgo tal como Líder de Zona, donde dirige más de veinte misioneros en la ciudad de Valdivia.<br><br><ul><li><b>Kastner, D. W.,</b> The Ultimate Triumph of Truth. <b>BYU Speeches</b>, University Commencement, <b>2019</b>.</li></ul>"
             },
             {
                 "language": "en",
@@ -65,7 +65,7 @@
         "logo": "assets/template/experience/logo/byu.svg",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "sp",
                 "city": "Provo",
                 "country": "Utah",
                 "role": "Asistente de investigaciónes",
@@ -114,7 +114,7 @@
         "logo": "assets/template/experience/logo/sccr.svg",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "sp",
                 "city": "Provo",
                 "country": "Utah",
                 "role": "Becaria de Investigación",
@@ -181,7 +181,7 @@
         "logo": "assets/template/experience/logo/df.svg",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "sp",
                 "city": "Boston",
                 "country": "MA",
                 "role": "Investigador Visitante",
@@ -242,7 +242,7 @@
         "logo": "assets/template/experience/logo/nih.svg",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "sp",
                 "city": "Bethesda",
                 "country": "MD",
                 "role": "Investigador Visitante",
@@ -307,7 +307,7 @@
         "logo": "assets/template/experience/logo/hci.svg",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "sp",
                 "city": "El Lago Salado",
                 "country": "Utah",
                 "role": "Biológico de Cancer",
@@ -373,7 +373,7 @@
         "logo": "assets/template/experience/logo/mit.svg",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "sp",
                 "city": "Cambridge",
                 "country": "MA",
                 "role": "Engeniero Biologico Doctorado Candidato",
