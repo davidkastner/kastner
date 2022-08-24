@@ -9,7 +9,7 @@ export const environment = {
     caricature: "protein.png",
     name: "David W. Kastner",
     email: "kastner@mit.com",
-    phone: "+707 492 5558",
+    phone: "+707 492-5558",
     location: "Cambridge, MA, United States"
   },
   // replace the dummy data below with the real firebase configs

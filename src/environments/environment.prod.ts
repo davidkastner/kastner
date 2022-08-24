@@ -6,7 +6,7 @@ export const environment = {
     name: "David W. Kastner",
     birth: "1992-07-39",
     email: "kastner@mit.com",
-    phone: "(707) 492 5558",
+    phone: "(707) 492-5558",
     location: "Cambridge, MA"
   },
   // replace the dummy data below with the real firebase configs
