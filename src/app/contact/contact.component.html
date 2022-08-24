@@ -71,7 +71,7 @@
                             *ngIf="(senderMessage.invalid && senderMessage.touched) || senderMessage.dirty">
                             <!--question mark(?) is a safe navigation operator-->
                             <small *ngIf="senderMessage.errors?.required" class="text-danger"
-                                i18n="contact@@requiredMessageError">The message is required.</small>
+                                i18n="contact@@requiredMessageError">A message is required.</small>
                         </div>
                     </div>
                     <input type="submit" i18n-value="contact@@send" value="Send">
@@ -80,7 +80,7 @@
         </div>
         <div class="right-side"></div>
     </div>
-    <img loading="lazy" height="705" src="./assets/template/contact/mimochrome.png" class="illustration"
+    <img loading="lazy" height="705" src="./assets/template/contact/mimochrome.webp" class="illustration"
         alt="illustration" itemprop="avatar">
     <div class="half-circle"></div>
 </section>
