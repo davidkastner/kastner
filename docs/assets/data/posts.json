@@ -1,6 +1,6 @@
 [
     {
-        "thumbnail": "assets/posts/post-07-15-2022.webp",
+        "thumbnail": "assets/posts/post-07-15-2022.png",
         "http": "https://pubs.acs.org/doi/10.1021/acscatal.2c02096",
         "date": "07-15-2022",
         "internationalizations": [
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "thumbnail": "assets/posts/post-05-24-2022.webp",
+        "thumbnail": "assets/posts/post-05-24-2022.png",
         "http": "https://pubs.acs.org/doi/10.1021/acs.jpcb.2c02260",
         "date": "05-24-2022",
         "internationalizations": [
@@ -34,7 +34,7 @@
         ]
     },
     {
-        "thumbnail": "assets/posts/post-03-11-2022.webp",
+        "thumbnail": "assets/posts/post-03-11-2022.png",
         "http": "https://www.nature.com/articles/s41597-022-01181-0",
         "date": "03-11-2022",
         "internationalizations": [
@@ -45,13 +45,13 @@
             },
             {
                 "language": "sp",
-                "title": "",
+                "title": "MOFSimplify, modelos de machine learning con datos de estabilidad de tres mil esqueletos de metal-organicos",
                 "description": ""
             }
         ]
     },
     {
-        "thumbnail": "assets/posts/post-03-07-22.webp",
+        "thumbnail": "assets/posts/post-03-07-22.png",
         "http": "https://pubs.acs.org/doi/abs/10.1021/jacs.1c12891",
         "date": "03-07-22",
         "internationalizations": [
@@ -62,30 +62,30 @@
             },
             {
                 "language": "sp",
-                "title": "",
+                "title": "Exploración de los mecanismos de formación de isonitrile de Non-Heme Iron(II)-Dependent Oxidase/Decarboxylase",
                 "description": ""
             }
         ]
     },
     {
-        "thumbnail": "assets/posts/post-10-31-2022.webp",
+        "thumbnail": "assets/posts/post-10-31-2022.png",
         "http": "https://pubs.rsc.org/en/content/articlelanding/2022/SC/D1SC05992K",
         "date": "10-31-2022",
         "internationalizations": [
             {
                 "language": "en",
                 "title": "Synthesis and evaluation of potent yaku'amide A analogs",
-                "description": "Two full-length analogs of the anticancer peptide yaku'amide A and four partial structures have been synthesized. These analogs were identified by computational studies in which the three E- and Z-ΔIle residues of the natural product were replaced by the more accessible dehydroamino acids ΔVal and ΔEnv."
+                "description": "Two full-length analogs of the anticancer peptide yaku'amide A and four partial structures have been synthesized. These analogs were identified by computational studies in which the three E- and Z-ΔIle residues of the natural product were replaced by the more accessible dehydroamino acids ΔVal and ΔEnv"
             },
             {
                 "language": "sp",
-                "title": "",
+                "title": "Síntesis y evaluación de potente análogos de yaku’amide A",
                 "description": ""
             }
         ]
     },
     {
-        "thumbnail": "assets/posts/post-06-01-2022.webp",
+        "thumbnail": "assets/posts/post-06-01-2022.png",
         "http": "http://genesdev.cshlp.org/content/35/11-12/847",
         "date": "06-01-2022",
         "internationalizations": [
@@ -96,13 +96,13 @@
             },
             {
                 "language": "sp",
-                "title": "",
+                "title": "ASCL1 reprime SOX9+ estado de célula madre cresta neural en cancer de los pulmones de celulas pequeñas",
                 "description": ""
             }
         ]
     },
     {
-        "thumbnail": "assets/posts/post-07-13-2022.webp",
+        "thumbnail": "assets/posts/post-07-13-2022.png",
         "http": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30218-X",
         "date": "07-13-2022",
         "internationalizations": [
@@ -113,13 +113,13 @@
             },
             {
                 "language": "sp",
-                "title": "",
+                "title": "MYC conduce la evolución temporal de subtipos de Cáncer de pulmón de células pequeñas por reprogramación del destino neuroendocrino",
                 "description": ""
             }
         ]
     },
     {
-        "thumbnail": "assets/posts/post-11-15-2019.webp",
+        "thumbnail": "assets/posts/post-11-15-2019.png",
         "http": "https://pubs.acs.org/doi/10.1021/acs.joc.9b02747",
         "date": "11-15-2019",
         "internationalizations": [
@@ -130,13 +130,13 @@
             },
             {
                 "language": "sp",
-                "title": "",
+                "title": "El impacto de los aminoácidos dehydros en la estructura y estabilidad de 310-péptidos de helicoidales",
                 "description": ""
             }
         ]
     },
     {
-        "thumbnail": "assets/posts/post-11-05-2019.webp",
+        "thumbnail": "assets/posts/post-11-05-2019.png",
         "http": "https://www.jbc.org/article/S0021-9258(20)30821-8/fulltext",
         "date": "11-05-2019",
         "internationalizations": [
@@ -153,7 +153,7 @@
         ]
     },
     {
-        "thumbnail": "assets/posts/post-12-24-2018.webp",
+        "thumbnail": "assets/posts/post-12-24-2018.png",
         "http": "https://www.sciencedirect.com/science/article/abs/pii/S0141813018356265?via%3Dihub",
         "date": "12-24-2018",
         "internationalizations": [
@@ -170,7 +170,7 @@
         ]
     },
     {
-        "thumbnail": "assets/posts/post-09-14-2017.webp",
+        "thumbnail": "assets/posts/post-09-14-2017.png",
         "http": "https://pubs.acs.org/doi/abs/10.1021/acs.orglett.7b02455",
         "date": "09-14-2017",
         "internationalizations": [
@@ -187,7 +187,7 @@
         ]
     },
     {
-        "thumbnail": "assets/posts/post-07-19-2017.webp",
+        "thumbnail": "assets/posts/post-07-19-2017.png",
         "http": "https://www.sciencedirect.com/science/article/abs/pii/S0890850817300695",
         "date": "07-19-2017",
         "internationalizations": [
