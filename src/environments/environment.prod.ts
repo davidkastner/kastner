@@ -2,7 +2,7 @@ export const environment = {
   production: true,
   // replace the data below with your personal data
   personal: {
-    caricature: "protein.png",
+    caricature: "protein.webp",
     name: "David W. Kastner",
     birth: "1992-07-39",
     email: "kastner@mit.com",
