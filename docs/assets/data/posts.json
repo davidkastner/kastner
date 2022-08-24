@@ -1,0 +1,206 @@
+[
+    {
+        "thumbnail": "assets/posts/post-07-15-2022.webp",
+        "http": "https://pubs.acs.org/doi/10.1021/acscatal.2c02096",
+        "date": "07-15-2022",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Using Computational Chemistry To Reveal Nature’s Blueprints for Single-Site Catalysis of C–H Activation",
+                "description": "The challenge of activating inert C–H bonds motivates a study of catalysts that draws from what can be accomplished by natural enzymes and translates these advantageous features into transition-metal complex (TMC) and material mimics. Inert C–H bond activation reactivity has been observed in a diverse number of predominantly iron-containing enzymes from the heme-P450s to nonheme iron α-ketoglutarate-dependent enzymes and methane monooxygenases."
+            },
+            {
+                "language": "sp",
+                "title": "El uso de la química computacional para relevar fundamentos para catálisis de sitio único de activación de C-H",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-05-24-2022.webp",
+        "http": "https://pubs.acs.org/doi/10.1021/acs.jpcb.2c02260",
+        "date": "05-24-2022",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Influence of the Greater Protein Environment on the Electrostatic Potential in Metalloenzyme Active Sites",
+                "description": "The Mo/W-containing metalloenzyme formate dehydrogenase (FDH) is an efficient and selective natural catalyst that reversibly converts CO2 to formate under ambient conditions. In this study, we investigate the impact of the greater protein environment on the electrostatic potential (ESP) of the active site."
+            },
+            {
+                "language": "sp",
+                "title": "La influencia del medio superior de las proteínas en la potencial electrostática de los sitios activos de las metalenzimas",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-03-11-2022.webp",
+        "http": "https://www.nature.com/articles/s41597-022-01181-0",
+        "date": "03-11-2022",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks",
+                "description": "We report a workflow and the output of a natural language processing (NLP)-based procedure to mine the extant metal–organic framework (MOF) literature describing structurally characterized MOFs and their solvent removal and thermal stabilities. We obtain over 2,000 solvent removal stability measures from text mining and 3,000 thermal decomposition temperatures from thermogravimetric analysis data."
+            },
+            {
+                "language": "sp",
+                "title": "MOFSimplify, modelos de machine learning con datos de estabilidad de tres mil esqueletos de metal-organicos",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-03-07-22.webp",
+        "http": "https://pubs.acs.org/doi/abs/10.1021/jacs.1c12891",
+        "date": "03-07-22",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Probing the Mechanism of Isonitrile Formation by a Non-Heme Iron(II)-Dependent Oxidase/Decarboxylase",
+                "description": "Biochemical, crystallographic, and computational investigations of ScoE have previously been reported, yet the isonitrile formation mechanism remains obscure. In the present work, we employed in vitro biochemistry, chemical synthesis, spectroscopy techniques, and computational simulations that enabled us to propose a plausible molecular mechanism for isonitrile formation."
+            },
+            {
+                "language": "sp",
+                "title": "Exploración de los mecanismos de formación de isonitrile de Non-Heme Iron(II)-Dependent Oxidase/Decarboxylase",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-10-31-2022.webp",
+        "http": "https://pubs.rsc.org/en/content/articlelanding/2022/SC/D1SC05992K",
+        "date": "10-31-2022",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Synthesis and evaluation of potent yaku'amide A analogs",
+                "description": "Two full-length analogs of the anticancer peptide yaku'amide A and four partial structures have been synthesized. These analogs were identified by computational studies in which the three E- and Z-ΔIle residues of the natural product were replaced by the more accessible dehydroamino acids ΔVal and ΔEnv"
+            },
+            {
+                "language": "sp",
+                "title": "Síntesis y evaluación de potente análogos de yaku’amide A",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-06-01-2022.webp",
+        "http": "http://genesdev.cshlp.org/content/35/11-12/847",
+        "date": "06-01-2022",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "ASCL1 represses a SOX9+ neural crest stem-like state in small cell lung cancer",
+                "description": "ASCL1 is a neuroendocrine lineage-specific oncogenic driver of small cell lung cancer (SCLC), highly expressed in a significant fraction of tumors. However, ∼25% of human SCLC are ASCL1-low and associated with low neuroendocrine fate and high MYC expression. Using genetically engineered mouse models (GEMMs), we show that alterations in Rb1/Trp53/Myc in the mouse lung induce an ASCL1+ state of SCLC in multiple cells of origin."
+            },
+            {
+                "language": "sp",
+                "title": "ASCL1 reprime SOX9+ estado de célula madre cresta neural en cancer de los pulmones de celulas pequeñas",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-07-13-2022.webp",
+        "http": "https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30218-X",
+        "date": "07-13-2022",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "MYC Drives Temporal Evolution of Small Cell Lung Cancer Subtypes by Reprogramming Neuroendocrine Fate",
+                "description": "Small cell lung cancer (SCLC) is a neuroendocrine tumor treated clinically as a single disease with poor outcomes. Distinct SCLC molecular subtypes have been defined based on expression of ASCL1, NEUROD1, POU2F3, or YAP1. Here, we use mouse and human models with a time-series single-cell transcriptome analysis to reveal that MYC drives dynamic evolution of SCLC subtypes."
+            },
+            {
+                "language": "sp",
+                "title": "MYC conduce la evolución temporal de subtipos de Cáncer de pulmón de células pequeñas por reprogramación del destino neuroendocrino",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-11-15-2019.webp",
+        "http": "https://pubs.acs.org/doi/10.1021/acs.joc.9b02747",
+        "date": "11-15-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Impact of Dehydroamino Acids on the Structure and Stability of Incipient 310-Helical Peptides",
+                "description": "A comparative study of the impact of small, medium-sized, and bulky α,β-dehydroamino acids (ΔAAs) on the structure and stability of Balaram’s incipient 310-helical peptide is reported. Replacement of the N-terminal Aib residue with a ΔAA afforded peptides that maintained the 310-helical shape."
+            },
+            {
+                "language": "sp",
+                "title": "El impacto de los aminoácidos dehydros en la estructura y estabilidad de 310-péptidos de helicoidales",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-11-05-2019.webp",
+        "http": "https://www.jbc.org/article/S0021-9258(20)30821-8/fulltext",
+        "date": "11-05-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Humanin induces conformational changes in the apoptosis regulator BAX and sequesters it into fibers, preventing mitochondrial outer-membrane permeabilization",
+                "description": "The mitochondrial, or intrinsic, apoptosis pathway is regulated mainly by members of the B-cell lymphoma 2 (BCL-2) protein family. BCL-2–associated X apoptosis regulator (BAX) plays a pivotal role in the initiation of mitochondria-mediated apoptosis as one of the factors causing mitochondrial outer-membrane permeabilization (MOMP)."
+            },
+            {
+                "language": "sp",
+                "title": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-12-24-2018.webp",
+        "http": "https://www.sciencedirect.com/science/article/abs/pii/S0141813018356265?via%3Dihub",
+        "date": "12-24-2018",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Engineering of serine protease for improved thermostability and catalytic activity using rational design",
+                "description": "The study involves the isolation and characterization of a serine peptidase, named SP, from Pseudomonas aeruginosa. In addition to basic characterization, the protein was engineered, by site-directed mutagenesis of selected non-catalytic residues, to increase its thermal stability and catalytic activity"
+            },
+            {
+                "language": "sp",
+                "title": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-09-14-2017.webp",
+        "http": "https://pubs.acs.org/doi/abs/10.1021/acs.orglett.7b02455",
+        "date": "09-14-2017",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Bulky Dehydroamino Acids Enhance Proteolytic Stability and Folding in β‐Hairpin Peptides",
+                "description": "The bulky dehydroamino acids dehydrovaline (ΔVal) and dehydroethylnorvaline (ΔEnv) can be inserted into the turn regions of β-hairpin peptides without altering their secondary structures. These residues increase proteolytic stability, with ΔVal at the (i + 1) position having the most substantial impact."
+            },
+            {
+                "language": "sp",
+                "title": "",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-07-19-2017.webp",
+        "http": "https://www.sciencedirect.com/science/article/abs/pii/S0890850817300695",
+        "date": "07-19-2017",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Potential involvement of mi-RNA 574-3p in progression of prostate cancer: A bioinformatic study",
+                "description": "Aberrant gene expression is a hallmark of prostate cancer (PCa), the second deadliest disease affecting males worldwide. Dysregulation of miRNA has been associated with the progression of PCa and in recent studies, miRNA 574-3p was found to be upregulated in cancerous prostate tissue. In this study, we characterize the effects of upregulated miRNA 574-3p on gene expression in the tumor microenvironment through different bioinformatic tools such as Diana-Tools, the KEGG Pathway Database, and the Reactome Database."
+            },
+            {
+                "language": "sp",
+                "title": "",
+                "description": ""
+            }
+        ]
+    }
+]
