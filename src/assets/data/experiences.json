@@ -9,7 +9,7 @@
         "logo": "assets/template/experience/logo/lds.svg",
         "internationalizations": [
             {
-                "language": "sp",
+                "language": "es",
                 "city": "Osorno",
                 "country": "Chile",
                 "role": "Missionary",
@@ -65,7 +65,7 @@
         "logo": "assets/template/experience/logo/byu.svg",
         "internationalizations": [
             {
-                "language": "sp",
+                "language": "es",
                 "city": "Provo",
                 "country": "Utah",
                 "role": "Asistente de investigaciónes",
@@ -114,7 +114,7 @@
         "logo": "assets/template/experience/logo/sccr.svg",
         "internationalizations": [
             {
-                "language": "sp",
+                "language": "es",
                 "city": "Provo",
                 "country": "Utah",
                 "role": "Becaria de Investigación",
@@ -181,7 +181,7 @@
         "logo": "assets/template/experience/logo/df.svg",
         "internationalizations": [
             {
-                "language": "sp",
+                "language": "es",
                 "city": "Boston",
                 "country": "MA",
                 "role": "Investigador Visitante",
@@ -242,7 +242,7 @@
         "logo": "assets/template/experience/logo/nih.svg",
         "internationalizations": [
             {
-                "language": "sp",
+                "language": "es",
                 "city": "Bethesda",
                 "country": "MD",
                 "role": "Investigador Visitante",
@@ -307,7 +307,7 @@
         "logo": "assets/template/experience/logo/hci.svg",
         "internationalizations": [
             {
-                "language": "sp",
+                "language": "es",
                 "city": "El Lago Salado",
                 "country": "Utah",
                 "role": "Biológico de Cancer",
@@ -373,7 +373,7 @@
         "logo": "assets/template/experience/logo/mit.svg",
         "internationalizations": [
             {
-                "language": "sp",
+                "language": "es",
                 "city": "Cambridge",
                 "country": "MA",
                 "role": "Engeniero Biologico Doctorado Candidato",

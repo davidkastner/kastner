@@ -12,8 +12,8 @@
       "i18n": {
         "sourceLocale": "en-US",
         "locales": {
-          "sp": {
-            "translation": "src/locales/messages.sp.xlf",
+          "es": {
+            "translation": "src/locales/messages.es.xlf",
             "baseHref": ""
           },
           "en": {
@@ -80,13 +80,13 @@
               "baseHref": "/en/",
               "i18nMissingTranslation": "error"
             },
-            "sp": {
+            "es": {
               "aot": true,
               "localize": [
-                "sp"
+                "es"
               ],
-              "outputPath": "docs/pt/",
-              "baseHref": "/pt/",
+              "outputPath": "docs/es/",
+              "baseHref": "/es/",
               "i18nMissingTranslation": "error"
             },
             "es5": {
@@ -106,8 +106,8 @@
             "en": {
               "browserTarget": "live-resume:build:en"
             },
-            "sp": {
-              "browserTarget": "live-resume:build:pt"
+            "es": {
+              "browserTarget": "live-resume:build:es"
             },
             "es5": {
               "browserTarget": "live-resume:build:es5"

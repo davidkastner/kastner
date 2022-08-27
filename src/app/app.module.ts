@@ -11,8 +11,8 @@ import { CoreModule } from "./core/core.module";
 import { Injectable } from "@angular/core";
 
 import localeEn from "@angular/common/locales/en";
-import localePt from "@angular/common/locales/pt";
-import localePtExtra from "@angular/common/locales/extra/pt";
+import localEs from "@angular/common/locales/es";
+import localEsExtra from "@angular/common/locales/extra/es";
 
 import { AngularFireModule } from "@angular/fire/compat";
 import { AngularFireDatabaseModule } from "@angular/fire/compat/database";
@@ -23,14 +23,14 @@ import { HammerModule, HammerGestureConfig, HAMMER_GESTURE_CONFIG } from "@angul
 import { DIRECTION_ALL } from "hammerjs";
 
 @Injectable()
-export class HammerConfig  extends HammerGestureConfig {
-    overrides = <any> {
-        swipe: { direction: DIRECTION_ALL },
-    };
+export class HammerConfig extends HammerGestureConfig {
+  overrides = <any>{
+    swipe: { direction: DIRECTION_ALL },
+  };
 }
 
 registerLocaleData(localeEn, "en");
-registerLocaleData(localePt, "pt-BR", localePtExtra);
+registerLocaleData(localEs, "es", localEsExtra);
 @NgModule({
   imports: [
     BrowserModule,
@@ -44,8 +44,8 @@ registerLocaleData(localePt, "pt-BR", localePtExtra);
     AngularFireAnalyticsModule,
     HammerModule
   ],
-  declarations: [ AppComponent ],
-  bootstrap: [ AppComponent ],
+  declarations: [AppComponent],
+  bootstrap: [AppComponent],
   providers: [
     {
       provide: HAMMER_GESTURE_CONFIG,
@@ -54,4 +54,4 @@ registerLocaleData(localePt, "pt-BR", localePtExtra);
   ]
 })
 
-export class AppModule {}
+export class AppModule { }

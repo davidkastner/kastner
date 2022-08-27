@@ -5,17 +5,17 @@
     "ng": "ng",
     "start": "ng serve",
     "start:en": "ng serve --configuration en",
-    "start:sp": "ng serve --configuration sp",
+    "start:es": "ng serve --configuration es",
     "build": "ng build",
     "build:en": "ng build --configuration en",
-    "build:sp": "ng build --configuration sp",
+    "build:es": "ng build --configuration es",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
     "int:extract": "ng extract-i18n --output-path src/locales",
     "build-locale:en": "ng build --configuration en",
-    "build-locale:sp": "ng build --configuration sp",
-    "build-locale": "npm run build-locale:en && npm run build-locale:sp"
+    "build-locale:es": "ng build --configuration es",
+    "build-locale": "npm run build-locale:en && npm run build-locale:es"
   },
   "private": true,
   "dependencies": {
