@@ -15,7 +15,7 @@
     "int:extract": "ng extract-i18n --output-path src/locales",
     "build-locale:en": "ng build --configuration en",
     "build-locale:es": "ng build --configuration es",
-    "build-locale": "npm run build-locale:en && npm run build-locale:es"
+    "build-locale": "npm run build-locale:en && npm run build-locale:es; rm -r docs/es docs/en; mv docs/es-site/es docs; mv docs/en-site/en docs; rm -r docs/en-site docs/es-site; cp -a docs/en/ docs/;"
   },
   "private": true,
   "dependencies": {

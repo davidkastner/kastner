@@ -76,7 +76,7 @@
               "localize": [
                 "en"
               ],
-              "outputPath": "docs/en/",
+              "outputPath": "docs/en-site/",
               "baseHref": "/en/",
               "i18nMissingTranslation": "error"
             },
@@ -85,7 +85,7 @@
               "localize": [
                 "es"
               ],
-              "outputPath": "docs/es/",
+              "outputPath": "docs/es-site/",
               "baseHref": "/es/",
               "i18nMissingTranslation": "error"
             },
