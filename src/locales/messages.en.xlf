@@ -93,8 +93,8 @@
         <note priority="1" from="description">contact</note>
       </trans-unit>
       <trans-unit id="emailPlaceholder" datatype="html">
-        <source>mark@gmail.com</source>
-        <target>mark@gmail.com</target>
+        <source>schrodinger@gmail.com</source>
+        <target>schrodinger@gmail.com</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">23</context>
@@ -102,8 +102,8 @@
         <note priority="1" from="description">contact</note>
       </trans-unit>
       <trans-unit id="namePlaceholder" datatype="html">
-        <source>Mark</source>
-        <target>Mark</target>
+        <source>Erwin Schrödinger</source>
+        <target>Erwin Schrödinger</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">20</context>
@@ -156,8 +156,8 @@
         <note priority="1" from="description">posts</note>
       </trans-unit>
       <trans-unit id="synopsis" datatype="html">
-        <source>In countless times, an article or a simple piece of information saved me hours of research, so whenever is possible, I try to do my humble contributions:</source>
-        <target>In countless times, an article or a simple piece of information saved me hours of research, so whenever is possible, I try to do my humble contributions:</target>
+        <source>To learn more about my research, feel free to browse my most recent work.</source>
+        <target>To learn more about my research, feel free to browse my most recent work.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/posts/posts.component.html</context>
           <context context-type="linenumber">19</context>
