@@ -1,4 +1,4 @@
-import { Directive, ElementRef, Input, OnInit} from "@angular/core";
+import { Directive, ElementRef, Input, OnInit } from "@angular/core";
 import { LOCALE_ID, Inject } from "@angular/core";
 import { EllipsisPipe } from "../pipe/ellipsis.pipe";
 
@@ -7,21 +7,21 @@ export class InternationalizationDirective {
 
     private _data: any[] = [];
 
-    @Input() property :string;
+    @Input() property: string;
 
     @Input() get data(): any[] {
         return this._data;
     }
 
-    @Input() ellipsis :number;
+    @Input() ellipsis: number;
 
     constructor(
         private el: ElementRef,
         @Inject(LOCALE_ID) public locale: string
-    ) {}
+    ) { }
 
     set data(value: any[]) {
-        if(value) {
+        if (value) {
             this._data = value;
             this.el.nativeElement.innerHTML = this.retrievePropertyValueByLocation();
         }
@@ -29,10 +29,10 @@ export class InternationalizationDirective {
 
     private retrievePropertyValueByLocation(): any {
 
-        if(this._data) {
+        if (this._data) {
 
             const value: string[] = this._data
-                .filter(element => element.language === (this.locale || "en"))
+                .filter(element => element.language === (["en", "en-US"].includes(this.locale) ? "en" : this.locale || "en"))
                 .map(element => element[this.property]) || [""];
 
             return this.ellipsis > 0 ? new EllipsisPipe().transform(value[0], this.ellipsis) : value;

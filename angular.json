@@ -13,7 +13,7 @@
         "sourceLocale": "en-US",
         "locales": {
           "sp": {
-            "translation": "src/locales/messages.pt.xlf",
+            "translation": "src/locales/messages.sp.xlf",
             "baseHref": ""
           },
           "en": {
@@ -76,7 +76,7 @@
               "localize": [
                 "en"
               ],
-              "outputPath": "dist/en/",
+              "outputPath": "docs/en/",
               "baseHref": "/en/",
               "i18nMissingTranslation": "error"
             },
@@ -85,7 +85,7 @@
               "localize": [
                 "sp"
               ],
-              "outputPath": "dist/pt/",
+              "outputPath": "docs/pt/",
               "baseHref": "/pt/",
               "i18nMissingTranslation": "error"
             },

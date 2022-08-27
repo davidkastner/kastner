@@ -6,7 +6,7 @@ export const environment = {
   production: false,
   // replace the data below with your personal data
   personal: {
-    caricature: "protein.png",
+    caricature: "protein.webp",
     name: "David W. Kastner",
     email: "kastner@mit.com",
     phone: "+707 492-5558",

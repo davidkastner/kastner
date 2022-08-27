@@ -1,4 +1,4 @@
 # Installation
 
 # Updating
-ng build --prod
+ng build --configuration production

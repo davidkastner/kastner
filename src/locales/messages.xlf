@@ -51,7 +51,7 @@
         <note priority="1" from="description">contact</note>
       </trans-unit>
       <trans-unit id="namePlaceholder" datatype="html">
-        <source>Mark</source>
+        <source>Erwin Schrodinger</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">42</context>
@@ -62,7 +62,7 @@
         <source>The name is required.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">46</context>
+          <context context-type="linenumber">47</context>
         </context-group>
         <note priority="1" from="description">contact</note>
       </trans-unit>
@@ -70,7 +70,7 @@
         <source>Please, provide a valid name.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">48</context>
+          <context context-type="linenumber">49</context>
         </context-group>
         <note priority="1" from="description">contact</note>
       </trans-unit>
@@ -78,15 +78,15 @@
         <source>Email:</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">52</context>
+          <context context-type="linenumber">53</context>
         </context-group>
         <note priority="1" from="description">contact</note>
       </trans-unit>
       <trans-unit id="emailPlaceholder" datatype="html">
-        <source>mark@gmail.com</source>
+        <source>schrodinger@gmail.com</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">54</context>
+          <context context-type="linenumber">55</context>
         </context-group>
         <note priority="1" from="description">contact</note>
       </trans-unit>
@@ -94,7 +94,7 @@
         <source>The email is required.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">59</context>
+          <context context-type="linenumber">60</context>
         </context-group>
         <note priority="1" from="description">contact</note>
       </trans-unit>
@@ -102,7 +102,7 @@
         <source>Please, provide a valid email address.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">61</context>
+          <context context-type="linenumber">62</context>
         </context-group>
         <note priority="1" from="description">contact</note>
       </trans-unit>
@@ -110,12 +110,12 @@
         <source>Your message:</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
-          <context context-type="linenumber">65</context>
+          <context context-type="linenumber">66</context>
         </context-group>
         <note priority="1" from="description">contact</note>
       </trans-unit>
       <trans-unit id="messagePlaceholder" datatype="html">
-        <source>Write here your message... I will reply to you soon.</source>
+        <source>Share what&apos;s on your mind!</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">68</context>
@@ -123,7 +123,7 @@
         <note priority="1" from="description">contact</note>
       </trans-unit>
       <trans-unit id="requiredMessageError" datatype="html">
-        <source>The message is required.</source>
+        <source>A message is required.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">74</context>
@@ -207,7 +207,7 @@
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/posts/posts-carousel/posts-carousel.component.html</context>
-          <context context-type="linenumber">33</context>
+          <context context-type="linenumber">36</context>
         </context-group>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/posts/posts.component.html</context>
@@ -227,7 +227,7 @@
         <source>Read more</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/posts/posts-carousel/posts-carousel.component.html</context>
-          <context context-type="linenumber">20</context>
+          <context context-type="linenumber">23</context>
         </context-group>
         <note priority="1" from="description">posts</note>
       </trans-unit>
@@ -235,12 +235,12 @@
         <source>of</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/posts/posts-carousel/posts-carousel.component.html</context>
-          <context context-type="linenumber">31</context>
+          <context context-type="linenumber">34</context>
         </context-group>
         <note priority="1" from="description">posts</note>
       </trans-unit>
       <trans-unit id="synopsis" datatype="html">
-        <source>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vulputate sagittis velit, eget scelerisque arcu semper finibus.</source>
+        <source>Reach out if you need help getting access to any of my current publications.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/posts/posts.component.html</context>
           <context context-type="linenumber">26,27</context>
