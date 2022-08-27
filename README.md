@@ -1,4 +1,4 @@
 # Installation
 
 # Updating
-ng build --configuration production
+npm run build-locale --prod --aot 
