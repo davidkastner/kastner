@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="open.as.pdf" datatype="html">
         <source>Open Resume as PDF</source>
-        <target>Abrir currículo como PDF</target>
+        <target>Abrir resume como PDF</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/header/header.component.html</context>
           <context context-type="linenumber">17</context>
@@ -22,7 +22,7 @@
       </trans-unit>
       <trans-unit id="successfulSubmit" datatype="html">
         <source>Thank you for contacting me, I&apos;ll reply to you very soon.</source>
-        <target>Obrigado por entrar em contato, em breve responderei sua mensagem.</target>
+        <target>Gracias por contactarme, responderé pronto.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">18</context>
@@ -30,8 +30,8 @@
         <note priority="1" from="description">contact</note>
       </trans-unit>
       <trans-unit id="errorSubmit" datatype="html">
-        <source>Sorry, there is an instability, try again later, or contact me via email or social media.</source>
-        <target>Desculpe, existe uma instabilidade, tente novamente mais tarde ou entre em contato comigo por e-mail ou mídia social.</target>
+        <source>Sorry, try again later or contact me via email or social media.</source>
+        <target>Desculpe, puede intentar luego o contactarme por e-mail o las redes sociales.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">19</context>
@@ -40,7 +40,7 @@
       </trans-unit>
       <trans-unit id="requiredMessageError" datatype="html">
         <source>The message is required.</source>
-        <target>A mensagem é obrigatória.</target>
+        <target>Se requiere un mensaje.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">44</context>
@@ -49,7 +49,7 @@
       </trans-unit>
       <trans-unit id="requiredEmailError" datatype="html">
         <source>The email is required.</source>
-        <target>O e-mail é obrigatório.</target>
+        <target>Se requiere un email.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">34</context>
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="invalidEmailError" datatype="html">
         <source>Please, provide a valid email address.</source>
-        <target>Por favor, insira um e-mail válido.</target>
+        <target>Por favor, ponga un e-mail válido.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">35</context>
@@ -66,8 +66,8 @@
         <note priority="1" from="description">contact</note>
       </trans-unit>
       <trans-unit id="requiredNameError" datatype="html">
-        <source>The name is required.</source>
-        <target>O nome é obrigatório.</target>
+        <source>A name is required.</source>
+        <target>Se requiere un nombre.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">24</context>
@@ -76,7 +76,7 @@
       </trans-unit>
       <trans-unit id="invalidNameError" datatype="html">
         <source>Please, provide a valid name.</source>
-        <target>Por favor, insira um nome válido.</target>
+        <target>Por favor, ponga un nombre válido.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">25</context>
