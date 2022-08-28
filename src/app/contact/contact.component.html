@@ -44,7 +44,7 @@
                         <div class="warnings" *ngIf="(senderName.invalid && senderName.touched) || senderName.dirty">
                             <!--question mark(?) is a safe navigation operator-->
                             <small *ngIf="senderName.errors?.required" class="text-danger"
-                                i18n="contact@@requiredNameError">The name is required.</small>
+                                i18n="contact@@requiredNameError">A name is required.</small>
                             <small *ngIf="senderName.errors?.pattern" class="text-danger"
                                 i18n="contact@@invalidNameError">Please, provide a valid name.</small>
                         </div>

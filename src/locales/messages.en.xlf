@@ -57,8 +57,8 @@
         <note priority="1" from="description">contact</note>
       </trans-unit>
       <trans-unit id="invalidEmailError" datatype="html">
-        <source>Please, provide a valid email address.</source>
-        <target>Please, provide a valid email address.</target>
+        <source>Please provide a valid email address.</source>
+        <target>Please provide a valid email address.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">35</context>
@@ -66,8 +66,8 @@
         <note priority="1" from="description">contact</note>
       </trans-unit>
       <trans-unit id="requiredNameError" datatype="html">
-        <source>The name is required.</source>
-        <target>The name is required.</target>
+        <source>A name is required.</source>
+        <target>A name is required.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">24</context>
@@ -75,8 +75,8 @@
         <note priority="1" from="description">contact</note>
       </trans-unit>
       <trans-unit id="invalidNameError" datatype="html">
-        <source>Please, provide a valid name.</source>
-        <target>Please, provide a valid name.</target>
+        <source>Please provide a valid name.</source>
+        <target>Please provide a valid name.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">25</context>
