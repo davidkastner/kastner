@@ -84,8 +84,8 @@
         <note priority="1" from="description">contact</note>
       </trans-unit>
       <trans-unit id="messagePlaceholder" datatype="html">
-        <source>Write here your message... I will reply to you soon.</source>
-        <target>Write here your message... I will reply to you soon.</target>
+        <source>What's on your mind?</source>
+        <target>What's on your mind?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">26</context>

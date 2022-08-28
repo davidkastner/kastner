@@ -85,7 +85,7 @@
       </trans-unit>
       <trans-unit id="messagePlaceholder" datatype="html">
         <source>What's on your mind?</source>
-        <target>De que quiere hablar?</target>
+        <target>De qué quiere hablar?</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">26</context>
@@ -130,7 +130,7 @@
       </trans-unit>
       <trans-unit id="email" datatype="html">
         <source>Email:</source>
-        <target>E-mail:</target>
+        <target>Correo electronico:</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/contact/contact.component.html</context>
           <context context-type="linenumber">16</context>

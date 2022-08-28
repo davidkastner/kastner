@@ -185,7 +185,7 @@
                 "city": "Boston",
                 "country": "MA",
                 "role": "Investigador Visitante",
-                "description": ""
+                "description": "Durante mi programa de práctica en El Instituto de Dana-Farber (DFCI) en el laboratorio de Dr. Arthanari, estudié la biosíntesis de los aminoácidos y los caminos metabólicos que controlan su regulación. Además, investigué los métodos novedosos de enriquecimiento isotópicos en las proteínas mediate el metabolismo de piruvato. A lo largo de la programa de práctica, aumenté mis capacidades del cultivo celular, la extracción de la proteína y su preparación, métodos de NMR y su teoría, el informático, y la reseña bibliográfica."
             },
             {
                 "language": "en",
@@ -199,8 +199,8 @@
             "NMR",
             "Proteins",
             "Metabolomics",
-            "cell-culture",
-            "protein-purification",
+            "Cell-culture",
+            "Protein-purification",
             "Python"
         ],
         "medias": [
@@ -246,7 +246,7 @@
                 "city": "Bethesda",
                 "country": "MD",
                 "role": "Investigador Visitante",
-                "description": ""
+                "description": "Durante mi tiempo hacienda investigaciones en <b>Los Institutos Nacionales de la Salud (NIH)</b> en el laboratorio de Dr. Nico Tjandra, estudié la biofísica estructural de la proteína apoptótica BCL-2 Asociado X (BAX). Mis investigaciones enfocaron en una interacción inusual con el péptido Humanin que se implica en el cáncer y el envejecimiento. Nuestras investigaciones revelaron una interacción complicaron entre BAX y Humanin que resulta en la formación de fibrillas que inhiben el camino apoptótico.<br><br><ul><li>Morris, D. L.; <b>Kastner, D. W.;</b> Johnson, S.; Strub, M.; He, Y.; Bleck, C. K.; Lee, D., Tjandra, N., Humanin induces conformational changes in the apoptosis regulator BAX and sequesters it into fibers, preventing mitochondrial outer-membrane permeabilization. <i>J. Biol. Chem.</i> </b>2019,</b> 50(294), 19055-19065.</li><ul>"
             },
             {
                 "language": "en",
@@ -311,7 +311,7 @@
                 "city": "El Lago Salado",
                 "country": "Utah",
                 "role": "Biológico de Cancer",
-                "description": ""
+                "description": "Cuando estaba en el <b>El Instituto de Cancer de Huntsman (HCI)</b>, investigué los mecanismos moleculares y la respuesta terapéutica de cáncer de pulmón microcítico (SCLC). SCLC es uno de los cánceres principales en los Estado Unidos y el mundo. Sin embargo, hay pocos tratamientos. Inicialmente, SCLC se trata con tratamientos de platino, pero no proceden una responsa duradera. Resulta en un cáncer mas agresivo. Al descubrir los mecanismos de SCLC, podemos desarrollar tratamientos individualizados para los genéticos únicos de cada tumor.<br><br><ul><li>Olsen, R. O.; Ireland, A. S.; <b>Kastner, D. W.;</b> Groves, S. M.; Spainhower, K. B.; Pozo, K.; Kelenis, D. P.; Whitney, C. P.; Guthrie, M. R.; Wait, S. J.; Soltero, D.; Witt, B. L.; Quaranta, V.; Johnson, J. E.; Oliver, T. G., ASCL1 represses a SOX9+ neural crest stem-like state in small cell lung cancer. <i>Genes & Development</i> <b>2021,</b> 35, 847-869.</li><li>Ireland, A. S.; Micinski, A. M.; <b>Kastner, D. W.;</b> Guo, B.; Wait, S. J.; Spainhower, K. B.; Conley, C. C.; Chen, O. S.; Guthrie, M. R.; Soltero, D.; Qiao, Y.; Huang, X.; Tarapcsak, S.; Devarakonda, S.; Chalishazar, M. D.; Gertz, J.; Moser, J.C.; Marth, G.; Puri, S.; Witt, B. L.; Spike, B. T.; Oliver, T. G., MYC Drives Temporal Evolution of Small Cell Lung Cancer Subtypes by Reprogramming Neuroendocrine Fate. <i>Cancer Cell</i> <b>2020,</b> 1(38), 60-78.</li></ul>"
             },
             {
                 "language": "en",
@@ -376,15 +376,15 @@
                 "language": "es",
                 "city": "Cambridge",
                 "country": "MA",
-                "role": "Engeniero Biologico Doctorado Candidato",
-                "description": ""
+                "role": "Engeniero biológico, Candidato de doctorado",
+                "description": "El propósito general de mis investigaciones en el laboratorio <b>Kulik en MIT</b> son para aclarar los modelos principales de las relaciones entre el sustrato y la proteína en las metaloenzimas para determinar como el ambiente interno de la proteína incluye la reactividad y especificad en las enzimas que contienen hierro. Más específicamente, estudio la función del sitio activo y la proteína entero en el controlar de la reactividad de los hydroxylases y halogenases; el papel de la alosteria electrónica y el transferir de carga eléctrica el las enzimas que contienen metal.<br><br><ul><li>Nandy, A.; Adamji, H.; <b>Kastner D. W.;</b> Vennelakanti, V.; Nazemi, A.; Liu, M.; Kulik, H., Using computational chemistry to reveal natures blueprints for single-site catalysis. <i>ACS Catal.</i> <b>2022,</b> 12(15), 9281-9306.</li><li>Nazemi, A.; Steeves, A. H.; <b>Kastner, D. W.;</b> Kulik, H. J., Influence of the greater protein environment on the electrostatic potential in metalloenzyme active sites: The case of formate dehydrogenase. <i>J. Phys. Chem. B</i> <b>2022,</b> 126(22), 4069-4079.</li><li>Flores, A. D; <b>Kastner, D. W.</b>; Du, Y.; Narayanamoorthy, M.; Shen, Y.; Cai, W.; Vennelakanti, V.; Zill, A. A.; Dell, L. B.; Zhai, R.; Kulik, H. J.; Zhang, W., Probing the mechanism of isonitrile formation by a non-heme iron(II)-dependent oxidase/decarboxylase. <i>JACS</i> <b>2022,</b> 144(13), 5893-5901.</li><li>Nandy, A.; Terrones, G.; Arunachalam, N.; Duan, C.; <b>Kastner, D. W.;</b> Kulik, H. J., MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks. <i>Scientific Data</i> <b>2022,</b> 9(74).</li></ul>"
             },
             {
                 "language": "en",
                 "city": "Cambridge",
                 "country": "MA",
                 "role": "Bioengineering Ph.D. Candidate",
-                "description": "The overarching direction of my thesis in the <b>Kulik Lab at MIT</b> is to elucidate patterns governing substrate-protein relationships in high-valent enzymes. More specifically, I am interested in how the protein environment influences reactivity and substrate specificity in non-heme iron containing enzymes. My research spans three general areas of interest. 1) Elucidating the role of the active site and greater protein environment in mediating hydroxylase vs. halogenase reactivity in non-heme iron dioxygenases. 2) Investigating the role of electronic allostery, charge transfer, and electronic perturbations in mediating reactivity in iron-containing enzymes. 3) Leveraging modern machine learning techniques to identify patterns in complex MD or multiscale QM/MM simulations.<br><br><ul><li>Nandy, A.; Adamji, H.; <b>Kastner D. W.;</b> Vennelakanti, V.; Nazemi, A.; Liu, M.; Kulik, H., Using computational chemistry to reveal natures blueprints for single-site catalysis. <i>ACS Catal.</i> <b>2022,</b> 12(15), 9281-9306.</li><li>Nazemi, A.; Steeves, A. H.; <b>Kastner, D. W.;</b> Kulik, H. J., Influence of the greater protein environment on the electrostatic potential in metalloenzyme active sites: The case of formate dehydrogenase. <i>J. Phys. Chem. B</i> <b>2022,</b> 126(22), 4069-4079.</li><li>Flores, A. D; <b>Kastner, D. W.</b>; Du, Y.; Narayanamoorthy, M.; Shen, Y.; Cai, W.; Vennelakanti, V.; Zill, A. A.; Dell, L. B.; Zhai, R.; Kulik, H. J.; Zhang, W., Probing the mechanism of isonitrile formation by a non-heme iron(II)-dependent oxidase/decarboxylase. <i>JACS</i> <b>2022,</b> 144(13), 5893-5901.</li><li>Nandy, A.; Terrones, G.; Arunachalam, N.; Duan, C.; <b>Kastner, D. W.;</b> Kulik, H. J., MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks. <i>Scientific Data</i> <b>2022,</b> 9(74).</li></ul>"
+                "description": "The overarching direction of my thesis in the <b>Kulik Lab at MIT</b> is to elucidate patterns governing substrate-protein relationships in high-valent enzymes to determine how the protein environment influences reactivity and substrate specificity in iron containing enzymes. More specifically, I study the role of the active site and greater protein environment in mediating hydroxylase vs. halogenase reactivity in non-heme iron dioxygenases; the role of electronic allostery and charge transfer in mediating reactivity in iron-containing enzymes.<br><br><ul><li>Nandy, A.; Adamji, H.; <b>Kastner D. W.;</b> Vennelakanti, V.; Nazemi, A.; Liu, M.; Kulik, H., Using computational chemistry to reveal natures blueprints for single-site catalysis. <i>ACS Catal.</i> <b>2022,</b> 12(15), 9281-9306.</li><li>Nazemi, A.; Steeves, A. H.; <b>Kastner, D. W.;</b> Kulik, H. J., Influence of the greater protein environment on the electrostatic potential in metalloenzyme active sites: The case of formate dehydrogenase. <i>J. Phys. Chem. B</i> <b>2022,</b> 126(22), 4069-4079.</li><li>Flores, A. D; <b>Kastner, D. W.</b>; Du, Y.; Narayanamoorthy, M.; Shen, Y.; Cai, W.; Vennelakanti, V.; Zill, A. A.; Dell, L. B.; Zhai, R.; Kulik, H. J.; Zhang, W., Probing the mechanism of isonitrile formation by a non-heme iron(II)-dependent oxidase/decarboxylase. <i>JACS</i> <b>2022,</b> 144(13), 5893-5901.</li><li>Nandy, A.; Terrones, G.; Arunachalam, N.; Duan, C.; <b>Kastner, D. W.;</b> Kulik, H. J., MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks. <i>Scientific Data</i> <b>2022,</b> 9(74).</li></ul>"
             }
         ],
         "technologies": [
