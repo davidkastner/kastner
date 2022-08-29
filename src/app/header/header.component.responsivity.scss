@@ -46,19 +46,19 @@
 
                     a {
                         font-size: 20px;
-                        color: #ffffffbd;
+                        color: #191919;
                         padding-left: 25px;
 
                         &:hover {
-                            color: #ffffff;
+                            color: #191919;
                             -webkit-box-shadow: none;
                             -moz-box-shadow: none;
                             box-shadow: none;
                         }
 
                         &.active {
-                            background-color: #fff;
-                            color: #ffffff;
+                            background-color: #acacac;
+                            color: #191919;
                         }
 
                         &:not(.active):hover {
