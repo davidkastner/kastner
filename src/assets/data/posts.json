@@ -51,7 +51,7 @@
         ]
     },
     {
-        "thumbnail": "assets/posts/post-03-07-22.webp",
+        "thumbnail": "assets/posts/post-03-07-2022.webp",
         "http": "https://pubs.acs.org/doi/abs/10.1021/jacs.1c12891",
         "date": "03-07-22",
         "internationalizations": [
@@ -166,6 +166,23 @@
                 "language": "es",
                 "title": "Humanin induce cambios de conformación en el regulador de apoptosis BAX y lo secuestra en fibrillas que previene la penetración de la membrana externa de las mitocondrias",
                 "description": "Reportamos evidencia que el camino apoptótico mitocondrial es regulado por sus interacciones entre el regulador apoptótico BAX y el péptido Humanin mediate penetración aumentada de la membrana de la mitocondria mediante fibrillas."
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-05-02-2019.webp",
+        "http": "https://speeches.byu.edu/talks/david-w-kastner/the-ultimate-triumph-of-truth/",
+        "date": "05-02-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "The Ultimate Triumph of Truth",
+                "description": "Commencement speech for the graduating class of 2019 given at the Marriot Stadium at Brigham Young University. No individual or perspective is the owner of truth; truth is as widespread and diverse as those who search for it."
+            },
+            {
+                "language": "es",
+                "title": "El Triunfar Último de la Verdad",
+                "description": "El discurso de graduación de la clase de 2019 dado en el Estadio Marriot en la Universidad de Brigham Young. No hay ningún individuo ni perspectiva que es el dueño de la verdad; La verdad es tan extensa como las personas que la buscan."
             }
         ]
     },
