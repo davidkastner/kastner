@@ -119,6 +119,23 @@
         ]
     },
     {
+        "thumbnail": "assets/posts/post-01-01-2020.jpeg",
+        "http": "https://kastner.io/en/assets/ihc.pdf",
+        "date": "01-01-2020",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "IHC-P: Immunohistochemistry protocol for glass-mounted paraffin-embedded tissue cross-sections",
+                "description": "Immunohistochemistry (IHC) is an experimental method for identifying the presence and qualitive levels of protein markers within tissue samples. The method follows a two-day protocol to produce the highest quality samples."
+            },
+            {
+                "language": "es",
+                "title": "IHC-P: Un protocolo de inmunohistoquímica para secciones de tejido parafinadas en diapositivas montadas sobre cristal",
+                "description": "Inmunohistoquímica (IHC) es un método experimental para la identificación y la presencia de una marcadora proteína en una muestra de tejida. El método usualmente sigue un protocolo de dos días para producir la muestra de mejor calidad."
+            }
+        ]
+    },
+    {
         "thumbnail": "assets/posts/post-11-15-2019.webp",
         "http": "https://pubs.acs.org/doi/10.1021/acs.joc.9b02747",
         "date": "11-15-2019",
