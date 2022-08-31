@@ -1,0 +1,39 @@
+{
+    "internationalizations": [
+        {
+            "language": "es",
+            "description": "Mi educación formal es la Biofísica y mis investigaciones científicas tocaron: las computaciones de la química cuántica, la ingeniera de las proteínas, la bioinformática, la química orgánica, y las células mamíferas. Estudié la química orgánica con Dr. Steven Castle en BYU, el NMR de las proteínas con Dr. Arthanari en Dana Farber/Harvard Cáncer Center, y las dinámicas de las proteínas con Dr. Tjandra en el NIH. Después de graduar, trabajé como científico de tiempo completo en el Instituto Huntsman de Cáncer (HCI) con Dr. Oliver investigando modelos de ratones que fueron modificado genéticamente. Actualmente, estoy estudiando los metalenzimas en MIT con Dr. Kulik."
+        },
+        {
+            "language": "en",
+            "description": "My formal education is Biophysics and my research has spanned: quantum chemistry calculations, protein engineering, bioinformatics, synthetic organic chemistry, and mammalian tissue models. I studied organic chemistry under Dr. Steven Castle at BYU, protein NMR with Dr. Arthanari at Dana Farber/Harvard Cancer Center, and protein dynamics with Dr. Tjandra at the NIH. After graduating, I worked as a full-time scientist at the Huntsman Cancer Institute (HCI) under Dr. Oliver studying genetically engineered cancer mouse models. Currently, I am a PhD student at MIT studying high-valent enzymes under the mentorship of Dr. Heather Kulik."
+        }
+    ],
+    "medias": [
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn",
+            "http": "https://www.linkedin.com/in/davidwkastner/"
+        },
+        {
+            "icon": "github",
+            "title": "GitHub",
+            "http": "https://github.com/davidkastner"
+        },
+        {
+            "icon": "twitter",
+            "title": "Twitter",
+            "http": "https://twitter.com/davidwkastner"
+        },
+        {
+            "icon": "researchgate",
+            "title": "Researchgate",
+            "http": "https://www.researchgate.net/profile/David-Kastner"
+        },
+        {
+            "icon": "orcid",
+            "title": "OrcID",
+            "http": "https://orcid.org/0000-0002-7766-4249"
+        }
+    ]
+}
