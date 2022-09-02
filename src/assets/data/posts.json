@@ -6,7 +6,7 @@
         "internationalizations": [
             {
                 "language": "en",
-                "title": "Using Computational Chemistry To Reveal Nature’s Blueprints for Single-Site Catalysis of C–H Activation",
+                "title": "Using computational chemistry to reveal nature’s blueprints for single-site catalysis of C–H activation",
                 "description": "Mimetic activation of inert C–H bonds draws inspiration from the evolutionarily-tuned mechanisms of natural enzymes such as the iron-containing heme-based P450 enzymes and non-heme iron α-ketoglutarate-dependent halogenases and hydroxylases."
             },
             {
@@ -23,7 +23,7 @@
         "internationalizations": [
             {
                 "language": "en",
-                "title": "Influence of the Greater Protein Environment on the Electrostatic Potential in Metalloenzyme Active Sites",
+                "title": "Influence of the greater protein environment on the electrostatic potential in metalloenzyme active sites",
                 "description": "We investigate the impact of the protein environment on the electrostatic potential (ESP) of the active site of the metalloenzyme formate dehydrogenase (FDH), an efficient natural catalyst that converts CO₂ to formate under ambient conditions."
             },
             {
@@ -57,12 +57,12 @@
         "internationalizations": [
             {
                 "language": "en",
-                "title": "Probing the Mechanism of Isonitrile Formation by a Non-Heme Iron(II)-Dependent Oxidase/Decarboxylase",
+                "title": "Probing the mechanism of isonitrile formation by a non-heme iron(II)-dependent oxidase/decarboxylase",
                 "description": "We propose a plausible molecular mechanism for the isonitrile forming mechanism of the elusive enzyme ScoE via biochemical characterization, chemical synthesis, spectroscopy techniques, and computational simulations."
             },
             {
                 "language": "es",
-                "title": "Exploración de los mecanismos de formación de isonitrile de Non-Heme Iron(II)-Dependent Oxidase/Decarboxylase",
+                "title": "Exploración de los mecanismos de formación de isonitrile de non-heme iron(II)-dependent oxidase/decarboxylase",
                 "description": "Proponemos un mecanismo molecular plausible por el isonitrilo formando mecanismo de la enzima elusiva ScoE vía caracterización bioquímica, síntesis química, técnicos espectroscópicos, y simulaciones computacionales."
             }
         ]
@@ -108,7 +108,7 @@
         "internationalizations": [
             {
                 "language": "en",
-                "title": "MYC Drives Temporal Evolution of Small Cell Lung Cancer Subtypes by Reprogramming Neuroendocrine Fate",
+                "title": "MYC drives temporal evolution of small cell lung cancer subtypes by reprogramming neuroendocrine fate",
                 "description": "We used mouse and human models with time-series single-cell transcriptomes to reveal dynamic evolution of SCLC subtypes via MYC. Distinct molecular subtypes were defined based on expression of ASCL1, NEUROD1, POU2F3, or YAP1."
             },
             {
@@ -142,7 +142,7 @@
         "internationalizations": [
             {
                 "language": "en",
-                "title": "Impact of Dehydroamino Acids on the Structure and Stability of Incipient 310-Helical Peptides",
+                "title": "Impact of dehydroamino acids on the structure and stability of incipient 310-helical peptides",
                 "description": "A comparative study of the impact of small, medium, and bulky dehydroamino acids on the structure and stability of 310-helical peptides. Replacement of the N-terminal Aib residue with a ΔAA afforded peptides that maintained the 310-helical shape."
             },
             {
@@ -176,12 +176,12 @@
         "internationalizations": [
             {
                 "language": "en",
-                "title": "Valedictorian Commencement Speech: The Ultimate Triumph of Truth",
+                "title": "Valedictorian commencement speech: The ultimate triumph of truth",
                 "description": "Commencement speech for the graduating class of 2019 given at the Marriot Stadium at Brigham Young University. "No individual or perspective is the owner of truth; truth is as widespread and diverse as those who search for it.""
             },
             {
                 "language": "es",
-                "title": "Discurso Valedictorian de Comienzo: El Triunfar Último de la Verdad",
+                "title": "Discurso valedictorian de comienzo: El triunfar último de la verdad",
                 "description": "El discurso de graduación de la clase de 2019 dado en el Estadio Marriot en la Universidad de Brigham Young. "No hay ningún individuo ni perspectiva que es el dueño de la verdad; La verdad es tan extensa como las personas que la buscan.""
             }
         ]
