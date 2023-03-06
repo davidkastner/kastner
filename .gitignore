@@ -2,3 +2,4 @@ _site/
 node_modules
 .angular/cache
 .DS_Store
+.DS_Store
