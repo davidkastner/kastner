@@ -86,6 +86,25 @@ export class ExperienceTimelineComponent implements OnInit, OnDestroy {
     return Math.round(Math.abs(+pointA - +pointB) / 8.64e7);
   }
 
+  private shouldAddYearLabel(dates: string[], currentDate: string): boolean {
+    let mapped = true;
+    const currentYear = currentDate.split("-")[2];
+
+    for (const date of dates) {
+      const year = date.split("-")[2];
+
+      if (date === currentDate) {
+        break;
+      }
+
+      if (year === currentYear) {
+        mapped = false;
+      }
+    }
+    
+    return mapped;
+  }
+
   private retrieveTodayDateAsString(): string {
     const today = new Date();
     return `${today.getMonth()+1}-${today.getDate()}-${today.getFullYear()}`;
@@ -106,7 +125,7 @@ export class ExperienceTimelineComponent implements OnInit, OnDestroy {
       const oneDayInPixels: number = this.offsetWidth / daysBetween;
 
       // Draw first date milestone
-      this.renderer.appendChild(this.line.nativeElement, this.createMilestone(1, 0, dates[0]));
+      this.renderer.appendChild(this.line.nativeElement, this.createMilestone(1, 0, dates[0], true));
 
       let i: number;
       const lastFrameLoop = dates.length - 1;
@@ -115,7 +134,8 @@ export class ExperienceTimelineComponent implements OnInit, OnDestroy {
       for (i = 1; i < lastFrameLoop; i++) {
         const periodInDays: number = this.daysBetween(dates[0], dates[i]);
         const periodWidth: number = periodInDays * oneDayInPixels;
-        const milestoneElement = this.createMilestone((i + 1), periodWidth, dates[i]);
+        const shouldAddLabel = this.shouldAddYearLabel(dates, dates[i]);
+        const milestoneElement = this.createMilestone((i + 1), periodWidth, dates[i], shouldAddLabel);
 
         if(i == lastFrameLoop - 1) {
           this.renderer.addClass(milestoneElement, "current");
@@ -134,7 +154,7 @@ export class ExperienceTimelineComponent implements OnInit, OnDestroy {
     return (leftPosition * 100) / offsetWidth;
   }
 
-  createMilestone(index: number, left: number, date: string): any {
+  createMilestone(index: number, left: number, date: string, addLabel: boolean): any {
     const milestoneElement = this.renderer.createElement("div");
     this.renderer.addClass(milestoneElement, "milestone");
     this.renderer.addClass(milestoneElement, "active");
@@ -143,9 +163,10 @@ export class ExperienceTimelineComponent implements OnInit, OnDestroy {
     this.renderer.setStyle(milestoneElement, "left", `${Math.min(95, leftPos)}%`);
     this.renderer.setAttribute(milestoneElement, "id-position", index.toString());
 
-    const labelElement = this.createLabelElement(date.toString());
-
-    this.renderer.appendChild(milestoneElement, labelElement);
+    if (addLabel) {
+      const labelElement = this.createLabelElement(date.toString());
+      this.renderer.appendChild(milestoneElement, labelElement);
+    }
 
     return milestoneElement;
   }
@@ -167,20 +188,14 @@ export class ExperienceTimelineComponent implements OnInit, OnDestroy {
 
     const localizedDatePipe = new LocalizedDatePipe(this.locale);
 
-    let month: any = localizedDatePipe.transform(safariDateFormatterPipeValue, "MMM");
     const labelElement = this.renderer.createElement("div");
     this.renderer.addClass(labelElement, "popupSpan");
-
-    const monthSpan = this.renderer.createElement("span");
-    this.renderer.addClass(monthSpan, "month");
-    this.renderer.appendChild(monthSpan, this.renderer.createText(month));
 
     const year = localizedDatePipe.transform(safariDateFormatterPipeValue, "yyyy");
     const yearSpan = this.renderer.createElement("span");
     this.renderer.addClass(yearSpan, "year");
     this.renderer.appendChild(yearSpan, this.renderer.createText(year));
 
-    this.renderer.appendChild(labelElement, monthSpan);
     this.renderer.appendChild(labelElement, yearSpan);
 
     return labelElement; // year, E.g: May. 2020
