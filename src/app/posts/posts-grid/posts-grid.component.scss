@@ -7,8 +7,10 @@
     ol {
         list-style: none;
         padding: 0;
-        display: flex;
         justify-content: space-around;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        gap: 10px;
 
         li {
             margin-right: 1em;

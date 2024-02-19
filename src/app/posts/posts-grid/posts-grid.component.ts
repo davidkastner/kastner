@@ -9,9 +9,9 @@ import { trigger, state, style, animate, transition } from "@angular/animations"
 import { debounce } from "../../core/utils";
 
 @Component({
-    selector: "app-posts-carousel",
-    templateUrl: "./posts-carousel.component.html",
-    styleUrls: ["./posts-carousel.component.scss", "./posts-carousel.component.responsivity.scss"],
+    selector: "app-posts-grid",
+    templateUrl: "./posts-grid.component.html",
+    styleUrls: ["./posts-grid.component.scss", "./posts-grid.component.responsivity.scss"],
     animations: [
         trigger("fadeInOut", [
             state("void", style({
@@ -22,7 +22,7 @@ import { debounce } from "../../core/utils";
     ]
 })
 
-export class PostsCarouselComponent {
+export class PostsGridComponent {
 
     public _posts: IPost[] = [];
     public _originalPosts: IPost[] = [];
@@ -44,7 +44,7 @@ export class PostsCarouselComponent {
     set currentPage(value: number) {
         if(value) {
             this._currentPage = value;
-            this.populateCarousel();
+            this.populateGrid();
         }
     }
 
@@ -69,16 +69,13 @@ export class PostsCarouselComponent {
         this.elWidth = this.elRef.nativeElement.clientWidth;
         this.resultsPerPage = Math.ceil(this.elWidth / 465);
 
-        this.populateCarousel();
+        this.populateGrid();
     }
 
-    private populateCarousel(): void {
+    private populateGrid(): void {
 
         if(this._currentPage && this._posts) {
-            this.start =  (this._currentPage - 1) * this.resultsPerPage;
-            this.end = this._currentPage * this.resultsPerPage;
-
-            this._posts = this._originalPosts.slice(this.start, this.end);
+            this._posts = this._originalPosts;
             this._posts.sort((a:any, b:any) => +new Date (b.date) - +new Date(a.date));
 
             this.resultsPerPageChanged.emit(this.resultsPerPage);

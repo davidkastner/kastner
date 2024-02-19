@@ -206,7 +206,7 @@
           <context context-type="linenumber">18,19</context>
         </context-group>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/posts/posts-carousel/posts-carousel.component.html</context>
+          <context context-type="sourcefile">src/app/posts/posts-grid/posts-grid.component.html</context>
           <context context-type="linenumber">36</context>
         </context-group>
         <context-group purpose="location">
@@ -226,7 +226,7 @@
       <trans-unit id="readMore" datatype="html">
         <source>Read more</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/posts/posts-carousel/posts-carousel.component.html</context>
+          <context context-type="sourcefile">src/app/posts/posts-grid/posts-grid.component.html</context>
           <context context-type="linenumber">23</context>
         </context-group>
         <note priority="1" from="description">posts</note>
@@ -234,7 +234,7 @@
       <trans-unit id="of" datatype="html">
         <source>of</source>
         <context-group purpose="location">
-          <context context-type="sourcefile">src/app/posts/posts-carousel/posts-carousel.component.html</context>
+          <context context-type="sourcefile">src/app/posts/posts-grid/posts-grid.component.html</context>
           <context context-type="linenumber">34</context>
         </context-group>
         <note priority="1" from="description">posts</note>

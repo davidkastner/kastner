@@ -1,7 +1,7 @@
 <div class="events-content" itemscope itemtype="https://schema.org/Article">
     <meta itemprop="publisher" content="David W. Kastner" />
     <meta itemprop="author" content="David W. Kastner" />
-    <ol [ngClass]="{'partial': _posts.length < 3 && currentPage >= (_originalPosts.length / resultsPerPage)}">
+    <ol>
         <li *ngFor="let post of _posts" itemprop="techArticle" itemscope itemtype="https://schema.org/TechArticle">
             <div class="card" [@fadeInOut] itemprop="item">
                 <a href="{{ post.http }}" rel="nofollow" target="_blank" itemprop="url">
@@ -25,14 +25,4 @@
             </div>
         </li>
     </ol>
-    <p class="paginator">
-        <span class="range">
-            <span class="start">{{ start + 1 }}</span>
-            <span class="devider">-</span>
-            <span class="end">{{ end > _originalPosts?.length ? _originalPosts?.length : end }}</span>
-        </span>
-        <span i18n="posts@@of">of</span>
-        <span>{{ _originalPosts?.length }}</span>
-        <span class="label" i18n="nav@@posts">posts</span>
-    </p>
 </div>
