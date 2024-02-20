@@ -1,5 +1,22 @@
 [
     {
+        "thumbnail": "assets/posts/post-12-01-2022.webp",
+        "http": "https://pubs.acs.org/doi/full/10.1021/jacsau.2c00547",
+        "date": "12-01-2022",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Active learning exploration of transition-metal complexes to discover accessible chromophores",
+                "description": "Machine learning (ML) accelerated discovery of transition-metal chromophores could overcome current challenges by enabling the screening of a larger space but is limited by the fidelity of the data used in ML model training."
+            },
+            {
+                "language": "es",
+                "title": "Exploración de aprendizaje activo de complejos de metales de transición para descubrir cromóforos accesibles",
+                "description": "El descubrimiento acelerado por el aprendizaje automático (ML) de cromóforos de metales de transición podría superar los desafíos actuales al permitir la exploración de un espacio más amplio, pero está limitado por la fidelidad de los datos utilizados en el entrenamiento del modelo de ML."
+            }
+        ]
+    },
+    {
         "thumbnail": "assets/posts/post-07-15-2022.webp",
         "http": "https://pubs.acs.org/doi/10.1021/acscatal.2c02096",
         "date": "07-15-2022",
