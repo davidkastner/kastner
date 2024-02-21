@@ -1,2 +1,2 @@
 # Updating
-npm run build-locale --prod --aot 
+npm run build-locale --prod --aot
