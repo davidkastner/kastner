@@ -1,5 +1,56 @@
 [
     {
+        "thumbnail": "assets/posts/post-08-24-2023.webp",
+        "http": "https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.27242",
+        "date": "08-24-2023",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Protein3D: Enabling analysis and extraction of metal-containing sites from the Protein Data Bank with molSimplify",
+                "description": "We show the usefulness of the newly created protein3D class to extract the local environment around non-heme iron enzymes containing a two histidine motif and prepare 372 structures for quantum mechanical calculations."
+            },
+            {
+                "language": "es",
+                "title": "Protein3D: Permitiendo el análisis y la extracción de sitios que contienen metales de la Base de Datos de Proteínas con molSimplify",
+                "description": "Demostramos la utilidad de la nueva clase protein3D creada para extraer el entorno local alrededor de enzimas de hierro no hemo que contienen un motivo de dos histidinas y preparar 372 estructuras para cálculos mecánicos cuánticos."
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-02-03-2023.webp",
+        "http": "https://pubs.acs.org/doi/full/10.1021/acscatal.2c06241",
+        "date": "02-03-2023",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Mechanistic insights into substrate positioning that distinguish non-heme Fe(II)/α-ketoglutarate-dependent halogenases and hydroxylases",
+                "description": "We performed a thorough comparative computational analysis of non-heme iron halogenases and hydroxylases and found that they show unique differences in their substrate positioning angles."
+            },
+            {
+                "language": "es",
+                "title": "Percepciones mecanicistas sobre el posicionamiento del sustrato que distinguen a las halogenasas y hidroxilasas dependientes de Fe(II)/α-cetoglutarato sin hemo",
+                "description": "Realizamos un análisis computacional comparativo exhaustivo de halogenasas y hidroxilasas de hierro no hemo y encontramos que muestran diferencias únicas en los ángulos de posicionamiento de sus sustratos."
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-03-02-2023.webp",
+        "http": "https://www.nature.com/articles/s41467-023-36299-1",
+        "date": "03-02-2023",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Emergence of a proton exchange-based isomerization and lactonization mechanism in the plant coumarin synthase COSY",
+                "description": "A BAHD acyltransferase-family enzyme COSY was recently discovered to accelerate coumarin formation as the only known BAHD enzyme to catalyze an intramolecular acyl transfer reaction. Here we investigate the structural and mechanistic basis for COSY’s coumarin synthase activity."
+            },
+            {
+                "language": "es",
+                "title": "Surgimiento de un mecanismo de isomerización y lactonización basado en el intercambio de protones en la sintasa de cumarina COSY de las plantas",
+                "description": "Recientemente se descubrió una enzima de la familia de las aciltransferasas BAHD, COSY, que acelera la formación de cumarina como la única enzima BAHD conocida que cataliza una reacción de transferencia acílica intramolecular. Aquí investigamos la base estructural y mecanística de la actividad de la sintasa de cumarina de COSY."
+            }
+        ]
+    },
+    {
         "thumbnail": "assets/posts/post-12-01-2022.webp",
         "http": "https://pubs.acs.org/doi/full/10.1021/jacsau.2c00547",
         "date": "12-01-2022",
@@ -193,7 +244,7 @@
         "internationalizations": [
             {
                 "language": "en",
-                "title": "Valedictorian commencement speech: The ultimate triumph of truth",
+                "title": "Valedictorian speech: The ultimate triumph of truth",
                 "description": "Commencement speech for the graduating class of 2019 given at the Marriot Stadium at Brigham Young University. No individual or perspective is the owner of truth; truth is as widespread and diverse as those who search for it."
             },
             {
