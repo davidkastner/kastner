@@ -13,7 +13,7 @@
             {
                 "language": "es",
                 "title": "Protein3D: Permitiendo el análisis y la extracción de sitios que contienen metales de la Base de Datos de Proteínas con molSimplify",
-                "journal": "J. Comput. Chem.",
+                "journal": "<b><em>J. Comput. Chem.</em></b>",
                 "description": "Demostramos la utilidad de la nueva clase protein3D creada para extraer el entorno local alrededor de enzimas de hierro no hemo que contienen un motivo de dos histidinas y preparar 372 estructuras para cálculos mecánicos cuánticos."
             }
         ]
@@ -26,13 +26,13 @@
             {
                 "language": "en",
                 "title": "Mechanistic insights into substrate positioning that distinguish non-heme Fe(II)/α-ketoglutarate-dependent halogenases and hydroxylases",
-                "journal": "ACS Catal.",
+                "journal": "<b><em>ACS Catal.</em></b>",
                 "description": "We performed a thorough comparative computational analysis of non-heme iron halogenases and hydroxylases and found that they show unique differences in their substrate positioning angles."
             },
             {
                 "language": "es",
                 "title": "Percepciones mecanicistas sobre el posicionamiento del sustrato que distinguen a las halogenasas y hidroxilasas dependientes de Fe(II)/α-cetoglutarato sin hemo",
-                "journal": "ACS Catal.",
+                "journal": "<b><em>ACS Catal.</em></b>",
                 "description": "Realizamos un análisis computacional comparativo exhaustivo de halogenasas y hidroxilasas de hierro no hemo y encontramos que muestran diferencias únicas en los ángulos de posicionamiento de sus sustratos."
             }
         ]
@@ -45,13 +45,13 @@
             {
                 "language": "en",
                 "title": "Emergence of a proton exchange-based isomerization and lactonization mechanism in the plant coumarin synthase COSY",
-                "journal": "Nat. Commun.",
+                "journal": "<b><em>Nat. Commun.</em></b>",
                 "description": "A BAHD acyltransferase-family enzyme COSY was recently discovered to accelerate coumarin formation as the only known BAHD enzyme to catalyze an intramolecular acyl transfer reaction. Here we investigate the structural and mechanistic basis for COSY’s coumarin synthase activity."
             },
             {
                 "language": "es",
                 "title": "Surgimiento de un mecanismo de isomerización y lactonización basado en el intercambio de protones en la sintasa de cumarina COSY de las plantas",
-                "journal": "Nat. Commun.",
+                "journal": "<b><em>Nat. Commun.</em></b>",
                 "description": "Recientemente se descubrió una enzima de la familia de las aciltransferasas BAHD, COSY, que acelera la formación de cumarina como la única enzima BAHD conocida que cataliza una reacción de transferencia acílica intramolecular. Aquí investigamos la base estructural y mecanística de la actividad de la sintasa de cumarina de COSY."
             }
         ]
@@ -64,13 +64,13 @@
             {
                 "language": "en",
                 "title": "Active learning exploration of transition-metal complexes to discover accessible chromophores",
-                "journal": "JACS Au",
+                "journal": "<b><em>JACS Au</em></b>",
                 "description": "Machine learning (ML) accelerated discovery of transition-metal chromophores could overcome current challenges by enabling the screening of a larger space but is limited by the fidelity of the data used in ML model training."
             },
             {
                 "language": "es",
                 "title": "Exploración de aprendizaje activo de complejos de metales de transición para descubrir cromóforos accesibles",
-                "journal": "JACS Au",
+                "journal": "<b><em>JACS Au</em></b>",
                 "description": "El descubrimiento acelerado por el aprendizaje automático (ML) de cromóforos de metales de transición podría superar los desafíos actuales al permitir la exploración de un espacio más amplio, pero está limitado por la fidelidad de los datos utilizados en el entrenamiento del modelo de ML."
             }
         ]
@@ -83,13 +83,13 @@
             {
                 "language": "en",
                 "title": "Using computational chemistry to reveal nature’s blueprints for single-site catalysis of C–H activation",
-                "journal": "ACS Catal.",
+                "journal": "<b><em>ACS Catal.</em></b>",
                 "description": "Mimetic activation of inert C–H bonds draws inspiration from the evolutionarily-tuned mechanisms of natural enzymes such as the iron-containing heme-based P450 enzymes and non-heme iron α-ketoglutarate-dependent halogenases and hydroxylases."
             },
             {
                 "language": "es",
                 "title": "El uso de la química computacional para relevar fundamentos para catálisis de sitio único de activación de C-H",
-                "journal": "ACS Catal.",
+                "journal": "<b><em>ACS Catal.</em></b>",
                 "description": "Activación mimética de los C-H inertes enlaces lleva inspiración de los evolucionariamente-refinados mecanismos de enzimas naturales tales como P450 enzimas basadas en hemo conteniendo ferro y no-hemo ferro α-ketoglutarate-dependiente halogenasas y hidroxilasas."
             }
         ]
@@ -102,13 +102,13 @@
             {
                 "language": "en",
                 "title": "Influence of the greater protein environment on the electrostatic potential in metalloenzyme active sites",
-                "journal": "J. Phys. Chem.",
+                "journal": "<b><em>J. Phys. Chem.</em></b>",
                 "description": "We investigate the impact of the protein environment on the electrostatic potential (ESP) of the active site of the metalloenzyme formate dehydrogenase (FDH), an efficient natural catalyst that converts CO₂ to formate under ambient conditions."
             },
             {
                 "language": "es",
                 "title": "La influencia del medio superior de las proteínas en la potencial electrostática de los sitios activos de las metalenzimas",
-                "journal": "J. Phys. Chem.",
+                "journal": "<b><em>J. Phys. Chem.</em></b>",
                 "description": "Investigamos el impacto de la proteína entorno en la potencial electrostática (ESP) del sitio de activación de la metaloenzima deshidrogenase de formiate (FDH), un catalizador eficiente que convierte CO2 a formatio debajo condiciones ambientes."
             }
         ]
@@ -121,13 +121,13 @@
             {
                 "language": "en",
                 "title": "MOFSimplify, machine learning models with extracted stability data of three thousand metal–organic frameworks",
-                "journal": "Sci. Data",
+                "journal": "<b><em>Sci. Data</em></b>",
                 "description": "We report a natural language processing (NLP)-based procedure to learn from mined metal–organic framework (MOF) literature describing structurally characterized MOFs and their solvent removal and thermal stabilities."
             },
             {
                 "language": "es",
                 "title": "MOFSimplify, modelos de machine learning con datos de estabilidad de tres mil esqueletos de metal-organicos",
-                "journal": "Sci. Data",
+                "journal": "<b><em>Sci. Data</em></b>",
                 "description": "Reportamos un lenguaje natural procesando (NLP)-basado procedimiento para aprender de minado metal-orgánico estructura (MOF) literatura describiendo, estructuralmente, MOFs caracterizadas por termas de estabilidades y eliminación de solventes."
             }
         ]
@@ -140,13 +140,13 @@
             {
                 "language": "en",
                 "title": "Probing the mechanism of isonitrile formation by a non-heme iron(II)-dependent oxidase/decarboxylase",
-                "journal": "JACS",
+                "journal": "<b><em>JACS</em></b>",
                 "description": "We propose a plausible molecular mechanism for the isonitrile forming mechanism of the elusive enzyme ScoE via biochemical characterization, chemical synthesis, spectroscopy techniques, and computational simulations."
             },
             {
                 "language": "es",
                 "title": "Exploración de los mecanismos de formación de isonitrile de non-heme iron(II)-dependent oxidase/decarboxylase",
-                "journal": "JACS",
+                "journal": "<b><em>JACS</em></b>",
                 "description": "Proponemos un mecanismo molecular plausible por el isonitrilo formando mecanismo de la enzima elusiva ScoE vía caracterización bioquímica, síntesis química, técnicos espectroscópicos, y simulaciones computacionales."
             }
         ]
@@ -159,13 +159,13 @@
             {
                 "language": "en",
                 "title": "Synthesis and evaluation of potent yaku'amide A analogs",
-                "journal": "Chem. Sci.",
+                "journal": "<b><em>Chem. Sci.</em></b>",
                 "description": "Two full-length analogs of the anticancer peptide yaku'amide A have been synthesized. These analogs were identified by computational studies in which the three E- and Z-ΔIle residues were replaced by more accessible dehydroamino acids."
             },
             {
                 "language": "es",
                 "title": "Síntesis y evaluación de potente análogos de yaku’amide A",
-                "journal": "Chem. Sci.",
+                "journal": "<b><em>Chem. Sci.</em></b>",
                 "description": "Sintetizamos dos analógicos de longitud completa del péptido yaku’amide A. Estos analógicos fueron identificados por calculaciones computacionales donde los tres E- y Z-ΔIle aminoácidos fueron sustituidos con aminoácidos dehydros mas accessibles."
             }
         ]
@@ -178,13 +178,13 @@
             {
                 "language": "en",
                 "title": "ASCL1 represses a SOX9+ neural crest stem-like state in small cell lung cancer",
-                "journal": "Genes Dev.",
+                "journal": "<b><em>Genes Dev.</em></b>",
                 "description": "Using genetically engineered mouse models, we show that alterations in Rb1/Trp53/Myc in mouse lungs induce a neuroendocrine fate of SCLC in multiple cells of origin via the neuroendocrine lineage-specific oncogenic driver ASCL1."
             },
             {
                 "language": "es",
                 "title": "ASCL1 reprime SOX9+ estado de célula madre cresta neural en cancer de los pulmones de celulas pequeñas",
-                "journal": "Genes Dev.",
+                "journal": "<b><em>Genes Dev.</em></b>",
                 "description": "Usando modelos de ratones ingeniados genéticamente, mostramos que alteraciones en Rb1/Trp53/Myc en los pulmones de ratones induce un destino neuroendocrino de SCLC en varias células de origen vía el oncogénico conductor específico al linaje neuroendocrino ASCL1."
             }
         ]
@@ -197,13 +197,13 @@
             {
                 "language": "en",
                 "title": "MYC drives temporal evolution of small cell lung cancer subtypes by reprogramming neuroendocrine fate",
-                "journal": "Cell",
+                "journal": "<b><em>Cell</em></b>",
                 "description": "We used mouse and human models with time-series single-cell transcriptomes to reveal dynamic evolution of SCLC subtypes via MYC. Distinct molecular subtypes were defined based on expression of ASCL1, NEUROD1, POU2F3, or YAP1."
             },
             {
                 "language": "es",
                 "title": "MYC conduce la evolución temporal de subtipos de Cáncer de pulmón de células pequeñas por reprogramación del destino neuroendocrino",
-                "journal": "Cell",
+                "journal": "<b><em>Cell</em></b>",
                 "description": "Usamos modelos de ratones y humanos con transcriptómicas unicelular de series temporales revelamos la evolución dinámica de los subtipos de SCLC mediate MYC. Subtipos moleculares distintas fueron identificados por la expresión de ASCL1, NEUROD1, POU2F3, o YAP1."
             }
         ]
@@ -216,13 +216,13 @@
             {
                 "language": "en",
                 "title": "IHC-P: Immunohistochemistry protocol for glass-mounted paraffin-embedded tissue cross-sections",
-                "journal": "HCI",
+                "journal": "<b><em>HCI</em></b>",
                 "description": "Immunohistochemistry (IHC) is an experimental method for identifying the presence and qualitive levels of protein markers within tissue samples. The method follows a two-day protocol to produce the highest quality samples."
             },
             {
                 "language": "es",
                 "title": "IHC-P: Un protocolo de inmunohistoquímica para secciones de tejido parafinadas en diapositivas montadas sobre cristal",
-                "journal": "HCI",
+                "journal": "<b><em>HCI</em></b>",
                 "description": "Inmunohistoquímica (IHC) es un método experimental para la identificación y la presencia de una marcadora proteína en una muestra de tejida. El método usualmente sigue un protocolo de dos días para producir la muestra de mejor calidad."
             }
         ]
@@ -235,13 +235,13 @@
             {
                 "language": "en",
                 "title": "Impact of dehydroamino acids on the structure and stability of incipient 310-helical peptides",
-                "journal": "J. Org. Chem.",
+                "journal": "<b><em>J. Org. Chem.</em></b>",
                 "description": "A comparative study of the impact of small, medium, and bulky dehydroamino acids on the structure and stability of 310-helical peptides. Replacement of the N-terminal Aib residue with a ΔAA afforded peptides that maintained the 310-helical shape."
             },
             {
                 "language": "es",
                 "title": "El impacto de los aminoácidos dehydros en la estructura y estabilidad de 310-péptidos de helicoidales",
-                "journal": "J. Org. Chem.",
+                "journal": "J. Org. Chem.</em></b>",
                 "description": "Un estudio comparativo del impacto de dehidroamino ácidos pequeños, medianos, y grandes contra de la estructura y estabilidad de los péptidos 310-helicoidales. Reemplazo del residuo N-terminal Aib con un AA resultó con péptidos que se mantuvieron la forma 310-helicoidal."
             }
         ]
@@ -254,13 +254,13 @@
             {
                 "language": "en",
                 "title": "Humanin induces conformational changes in the apoptosis regulator BAX and sequesters it into fibers, preventing mitochondrial outer-membrane permeabilization",
-                "journal": "J. Biol. Chem.",
+                "journal": "J. Biol. Chem.</em></b>",
                 "description": "We report evidence that the mitochondrial apoptotic pathway is regulated by interactions between the apoptosis regulator BAX and the peptide Humanin via mitochondrial outer-membrane permeabilization (MOMP)."
             },
             {
                 "language": "es",
                 "title": "Humanin induce cambios de conformación en el regulador de apoptosis BAX y lo secuestra en fibrillas que previene la penetración de la membrana externa de las mitocondrias",
-                "journal": "J. Biol. Chem.",
+                "journal": "<b><em>J. Biol. Chem.</em></b>",
                 "description": "Reportamos evidencia que el camino apoptótico mitocondrial es regulado por sus interacciones entre el regulador apoptótico BAX y el péptido Humanin mediate penetración aumentada de la membrana de la mitocondria mediante fibrillas."
             }
         ]
@@ -273,13 +273,13 @@
             {
                 "language": "en",
                 "title": "Valedictorian speech: The ultimate triumph of truth",
-                "journal": "BYU Speeches",
+                "journal": "<b><em>BYU Speeches</em></b>",
                 "description": "Commencement speech for the graduating class of 2019 given at the Marriot Stadium at Brigham Young University. No individual or perspective is the owner of truth; truth is as widespread and diverse as those who search for it."
             },
             {
                 "language": "es",
                 "title": "Discurso valedictorian de comienzo: El triunfar último de la verdad",
-                "journal": "BYU Speeches",
+                "journal": "<b><em>BYU Speeches</em></b>",
                 "description": "El discurso de graduación de la clase de 2019 dado en el Estadio Marriot en la Universidad de Brigham Young. No hay ningún individuo ni perspectiva que es el dueño de la verdad; La verdad es tan extensa como las personas que la buscan."
             }
         ]
@@ -292,13 +292,13 @@
             {
                 "language": "en",
                 "title": "Engineering of serine protease for improved thermostability and catalytic activity using rational design",
-                "journal": "Int. J. Biol. Macromol.",
+                "journal": "<b><em>Int. J. Biol. Macromol.</em></b>",
                 "description": "This study reports the isolation and characterization of a serine peptidase from Pseudomonas aeruginosa. The protein was engineered, by site-directed mutagenesis, to increase its thermal stability and catalytic activity."
             },
             {
                 "language": "es",
                 "title": "El diseña de una proteasa de serine para la termoestabilidad aumentada y la actividad catalítica mediante el uso de diseña racional",
-                "journal": "Int. J. Biol. Macromol.",
+                "journal": "<b><em>Int. J. Biol. Macromol.</em></b>",
                 "description": "En este estudio, reportamos la identificación de una peptidasa de serine de <i>Pseudomonas aeruginosa</i>. La proteína fue diseñado mediante mutagénesis dirigida al aminoácidos catalíticos para aumentar su estabilidad térmico y su actividad catalítica."
             }
         ]
@@ -311,13 +311,13 @@
             {
                 "language": "en",
                 "title": "Bulky Dehydroamino Acids Enhance Proteolytic Stability and Folding in β‐Hairpin Peptides",
-                "journal": "Org. Lett.",
+                "journal": "<b><em>Org. Lett.</em></b>",
                 "description": "The bulky dehydroamino acids dehydrovaline (ΔVal) and dehydroethylnorvaline (ΔEnv) can be inserted into the turn regions of β-hairpin peptides without altering their secondary structures and increase proteolytic stability."
             },
             {
                 "language": "es",
                 "title": "Los aminoácidos dehydros voluminosos aumenten la estabilidad proteolíticas y el desplegar en los péptidos de β‐horquilla",
-                "journal": "Org. Lett.",
+                "journal": "<b><em>Org. Lett.</em></b>",
                 "description": "Los aminoácidos dehydro voluminosos de dehydrovaline (ΔVal) y dehydroethylnorvaline (ΔEnv) pueden estar insertado en las regiones de giro sin cambiar su estructura secundaria y aumentar su estabilidad proteolítica."
             }
         ]
@@ -330,13 +330,13 @@
             {
                 "language": "en",
                 "title": "Potential involvement of mi-RNA 574-3p in progression of prostate cancer: A bioinformatic study",
-                "journal": "Mol. Cell. Probes",
+                "journal": "<b><em>Mol. Cell. Probes</em></b>",
                 "description": "Aberrant gene expression is a hallmark of prostate cancer, the second deadliest disease affecting males worldwide. In this study, we characterize the effects of upregulated miRNA 574-3p on gene expression in the tumor microenvironment."
             },
             {
                 "language": "es",
                 "title": "La participación potencial de mi-RNA 574-3p en la progresión del cáncer de la próstata: Un estudio bioinformático",
-                "journal": "Mol. Cell. Probes",
+                "journal": "<b><em>Mol. Cell. Probes</em></b>",
                 "description": "Expresión genética aberrante es un sello del cáncer de la próstata, la segunda más mortal para los hombres mundial. En este estudio, caracterizamos los efectos de miRNA 574-3p regulado al alza en la expresión de los genes en el microambiente tumoral."
             }
         ]
