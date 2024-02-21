@@ -7,7 +7,7 @@
             {
                 "language": "en",
                 "title": "Protein3D: Enabling analysis and extraction of metal-containing sites from the Protein Data Bank with molSimplify",
-                "journal": "J. Comput. Chem.",
+                "journal": "<b>J. Comput. Chem.</b>",
                 "description": "We show the usefulness of the newly created protein3D class to extract the local environment around non-heme iron enzymes containing a two histidine motif and prepare 372 structures for quantum mechanical calculations."
             },
             {
