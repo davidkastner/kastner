@@ -1,5 +1,119 @@
 [
     {
+        "thumbnail": "assets/posts/post-07-14-2025.webp",
+        "http": "https://pubs.acs.org/doi/10.1021/acscatal.5c03335",
+        "date": "07-14-2025",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "The role of the unusual 2-Tyr-1-carboxylate non-heme iron motif in the mechanism of N, N-Dimethylformamidase",
+                "journal": "<b><em>ACS Catal.</em></b>",
+                "description": "Comprehensive computational study demonstrating how the 2Tyr-1Glu motif and second coordination sphere enable hydrolytic reactivity in DMFase and suggest Glu657 and Lys567 as targets of future mutagenesis."
+            },
+            {
+                "language": "es",
+                "title": "El papel del inusual motivo de hierro no hemo 2-Tyr-1-carboxilato en el mecanismo de la N,N-dimetilformamidasa",
+                "journal": "<b><em>ACS Catal.</em></b>",
+                "description": "Estudio computacional exhaustivo que demuestra cómo el motivo 2Tyr-1Glu y la segunda esfera de coordinación permiten la reactividad hidrolítica en la DMFasa, y que sugiere a Glu657 y Lys567 como dianas para futura mutagénesis."
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-06-17-2025.webp",
+        "http": "https://pubs.acs.org/doi/full/10.1021/acs.biochem.5c00207",
+        "date": "06-17-2025",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Role of active site residues and weak noncovalent interactions in substrate positioning in N, N-Dimethylformamidase",
+                "journal": "<b><em>Biochem.</em></b>",
+                "description": "Comprehensive computational study of the conformational dynamics of the unusual non-heme iron DMFase, suggesing common conserved residues among putative DMFases and relate them to catalytic function."
+            },
+            {
+                "language": "es",
+                "title": "Papel de los residuos del sitio activo y las interacciones débiles no covalentes en el posicionamiento del sustrato en la N,N-dimetilformamidasa",
+                "journal": "<b><em>Biochem.</em></b>",
+                "description": "Estudio computacional exhaustivo de la dinámica conformacional de la inusual DMFasa de hierro no hemo, que sugiere la existencia de residuos conservados comunes entre las presuntas DMFasas y los relaciona con la función catalítica."
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-06-11-2025.webp",
+        "http": "https://www.jbc.org/article/S0021-9258(25)02229-X/fulltext",
+        "date": "06-11-2025",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "CH-π Interactions confer orientational flexibility in protein-carbohydrate binding sites",
+                "journal": "<b><em>J. Biol. Chem.</em></b>",
+                "description": "Computational study describing the free energy binding of protein−β-D-galactoside complexes with CH–π stacking interactions, underscoring the cooperative nature and tunability of hydrogen bonds and CH−π stacking interactions."
+            },
+            {
+                "language": "es",
+                "title": "Las interacciones CH–π confieren flexibilidad orientacional en los sitios de unión proteína-carbohidrato",
+                "journal": "<b><em>J. Biol. Chem.</em></b>",
+                "description": "Estudio computacional sobre la energía libre de unión de los complejos proteína−β-D-galactósido con interacciones de apilamiento CH–π, que subraya la naturaleza cooperativa y la capacidad de ajuste de los enlaces de hidrógeno y de las interacciones de apilamiento CH–π"
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-12-03-2024.webp",
+        "http": "https://pubs.rsc.org/en/content/articlelanding/2025/sc/d4sc06246a",
+        "date": "12-03-2024",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "The energetic landscape of CH–π interactions in protein–carbohydrate binding",
+                "journal": "<b><em>Chem. Sci.</em></b>",
+                "description": "Computational quantification of the strength of carbohydrate–protein CH–π interactions, demonstrating that a feature of CH–π stacking interactions is that numerous orientations allow for highly favorable interaction strengths."
+            },
+            {
+                "language": "es",
+                "title": "El panorama energético de las interacciones CH–π en la unión proteína-carbohidrato",
+                "journal": "<b><em>Chem. Sci.</em></b>",
+                "description": "Cuantificación computacional de la intensidad de las interacciones CH–π carbohidrato-proteína, demostrando que una característica de las interacciones de apilamiento CH–π es que numerosas orientaciones permiten intensidades de interacción muy favorables."
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-09-28-2024.webp",
+        "http": "https://www.nature.com/articles/s41467-024-54437-1",
+        "date": "09-28-2024",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Mechanistic basis for the emergence of EPS1 as a catalyst in salicylic acid biosynthesis of Brassicaceae",
+                "journal": "<b><em>Nat. Comm.</em></b>",
+                "description": "Experimental and computational study revealing the enzymatic mechanism of salicyclic acid production in Brassicaceae plants showing evolutionary adaptation of an ancestral active site to enable a novel catalytic mechanism."
+            },
+            {
+                "language": "es",
+                "title": "Base mecanicista del surgimiento de EPS1 como catalizador en la biosíntesis del ácido salicílico de las Brassicaceae",
+                "journal": "<b><em>Nat. Comm.</em></b>",
+                "description": "Estudio experimental y computacional del mecanismo enzimático de la producción de ácido salicílico en plantas de la familia Brassicaceae, que muestra la adaptación evolutiva de un sitio activo ancestral para permitir un mecanismo catalítico novedoso."
+            }
+        ]
+    },
+    {
+        "thumbnail": "assets/posts/post-09-27-2024.webp",
+        "http": "https://www.nature.com/articles/s41557-024-01646-2",
+        "date": "09-27-2024",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Enzymatic synthesis of azide by a promiscuous N-nitrosylase",
+                "journal": "<b><em>Nat. Chem.</em></b>",
+                "description": "Experimental and computational investigation of the promiscuous ATP- and nitrite-dependent enzyme Tri17, which catalyses organic azide synthesis through sequential N-nitrosation and dehydration of aryl hydrazines."
+            },
+            {
+                "language": "es",
+                "title": "Síntesis enzimática de azida por una N-nitrosilasa promiscuosa",
+                "journal": "<b><em>Nat. Chem.</em></b>",
+                "description": "Investigación experimental y computacional de Tri17, una enzima promiscua dependiente de ATP y nitrito que cataliza la síntesis de azidas orgánicas mediante la N-nitrosación y deshidratación secuenciales de aril hidrazinas."
+            }
+        ]
+    },
+    {
         "thumbnail": "assets/posts/post-08-24-2023.webp",
         "http": "https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.27242",
         "date": "08-24-2023",
